@@ -367,6 +367,7 @@
     "priceId": null,
     "hasValue": false,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/dev-moonbasedev.png",
+    "icon_alternative":  "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/moonbasealpha_square.png",
     "originChainAsset": "moonbase-NATIVE-DEV",
     "chainAssets": [
       "moonbase-NATIVE-DEV"
