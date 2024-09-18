@@ -6030,6 +6030,7 @@
     "chainStatus": "INACTIVE",
     "ordinal": 85,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/mangatax.png",
+    "icon_alternative": null,
     "providers": {
       "mangatax": "wss://collator-01-ws-rococo.mangata.online"
     },
@@ -6062,6 +6063,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 86,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/mangatax_para.png",
+    "icon_alternative": null,
     "providers": {
       "mangata": "wss://kusama-rpc.mangata.online",
       "Mangata Archive": "wss://kusama-archive.mangata.online"
@@ -6121,6 +6123,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/manta_network.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/manta_circle.png",
     "providers": {
       "Manta Network": "wss://ws.manta.systems"
     },
@@ -6156,6 +6159,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/manta_network_evm.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/manta_circle.png",
     "providers": {
       "Manta Pacific": "https://pacific-rpc.manta.network/http"
     },
@@ -6183,6 +6187,7 @@
     "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/mars.png",
+    "icon_alternative": null,
     "providers": {},
     "evmInfo": null,
     "substrateInfo": {

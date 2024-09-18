@@ -2773,6 +2773,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bifrost_dot-local-manta.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/manta_circle.png",
     "originChain": "bifrost_dot",
     "multiChainAsset": "MANTA-MantaAtlantic",
     "assetRefs": [
@@ -9856,6 +9857,7 @@
     "hasValue": false,
     "ordinal": 140,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/mangatax-native-mgat.png",
+    "icon_alternative": null,
     "originChain": "mangatax",
     "multiChainAsset": null,
     "assetRefs": []
@@ -9876,6 +9878,7 @@
     "hasValue": true,
     "ordinal": 141,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/mangatax_para-native-mgx.png",
+    "icon_alternative": null,
     "originChain": "mangatax_para",
     "multiChainAsset": null,
     "assetRefs": []
@@ -9897,6 +9900,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/manta_network-local-dot.png",
+    "icon_alternative": null,
     "originChain": "manta_network",
     "multiChainAsset": "DOT-Polkadot",
     "assetRefs": [
@@ -9930,6 +9934,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/manta_network-native-manta.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/manta_circle.png",
     "originChain": "manta_network",
     "multiChainAsset": "MANTA-MantaAtlantic",
     "assetRefs": [
@@ -9961,6 +9966,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/manta_network_evm-erc20-manta-0x95cef13441be50d20ca4558cc0a27b601ac544e5.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/manta_circle.png",
     "originChain": "manta_network_evm",
     "multiChainAsset": "MANTA-MantaAtlantic",
     "assetRefs": []
@@ -9977,6 +9983,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/manta_network_evm-native-eth.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum_circle.png",
     "originChain": "manta_network_evm",
     "multiChainAsset": "ETH-Ethereum",
     "assetRefs": []
@@ -9995,6 +10002,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/merlinevm-erc20-merl-0x5c46bff4b38dc1eae09c5bac65872a1d8bc87378.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/merlin_square.png",
     "originChain": "merlinEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -10011,6 +10019,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/merlinevm-native-btc.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bitcoin_circle.png",
     "originChain": "merlinEvm",
     "multiChainAsset": "BTC-Bitcoin",
     "assetRefs": []

@@ -459,6 +459,7 @@
     "priceId": "ethereum",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/eth-ethereum.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum_circle.png",
     "originChainAsset": "ethereum-NATIVE-ETH",
     "chainAssets": [
       "ethereum-NATIVE-ETH",
@@ -487,6 +488,7 @@
     "priceId": null,
     "hasValue": false,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/eth-ethereumsepolia.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum_circle.png",
     "originChainAsset": null,
     "chainAssets": [
       "soneiumMinato-NATIVE-ETH",
@@ -1151,6 +1153,7 @@
     "priceId": "wrapped-bitcoin",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/wbtc-wrappedbtc.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bitcoin_circle.png",
     "originChainAsset": null,
     "chainAssets": [
       "calamari-LOCAL-WBTC",
