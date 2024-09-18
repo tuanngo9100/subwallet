@@ -11,6 +11,7 @@
     "hasValue": true,
     "ordinal": 206,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/3dpass-native-p3d.png",
+    "icon_alternative": null,
     "originChain": "3dpass",
     "multiChainAsset": null,
     "assetRefs": []
@@ -27,6 +28,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/5irechain_mainnet-native-5ire.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/5irechain_square.png",
     "originChain": "5irechain_mainnet",
     "multiChainAsset": null,
     "assetRefs": []
@@ -47,6 +49,7 @@
     "hasValue": true,
     "ordinal": 21,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala-local-astr.png",
+    "icon_alternative": null,
     "originChain": "acala",
     "multiChainAsset": "ASTR-Astar",
     "assetRefs": []
@@ -67,6 +70,7 @@
     "hasValue": true,
     "ordinal": 17,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala-local-dot.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/polkadot_square.png",
     "originChain": "acala",
     "multiChainAsset": "DOT-Polkadot",
     "assetRefs": [
@@ -94,6 +98,7 @@
     "hasValue": true,
     "ordinal": 18,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala-local-glmr.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/moonriver_square.png",
     "originChain": "acala",
     "multiChainAsset": "GLMR-Moonbeam",
     "assetRefs": [
@@ -121,6 +126,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala-local-intr.png",
+    "icon_alternative": null,
     "originChain": "acala",
     "multiChainAsset": "INTR-Interlay",
     "assetRefs": [
@@ -148,6 +154,7 @@
     "hasValue": true,
     "ordinal": 22,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala-local-ldot.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/polkadot_square.png",
     "originChain": "acala",
     "multiChainAsset": null,
     "assetRefs": []
@@ -168,6 +175,7 @@
     "hasValue": true,
     "ordinal": 23,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala-local-lcdot.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/polkadot_square.png",
     "originChain": "acala",
     "multiChainAsset": null,
     "assetRefs": []
@@ -188,6 +196,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala-local-pink.png",
+    "icon_alternative": null,
     "originChain": "acala",
     "multiChainAsset": "PINK-StatemintPink",
     "assetRefs": [
@@ -215,6 +224,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala-local-usdcet.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdc_circle.png",
     "originChain": "acala",
     "multiChainAsset": "USDC-USDCoin",
     "assetRefs": []
@@ -235,6 +245,7 @@
     "hasValue": true,
     "ordinal": 19,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala-local-usdt.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdt_circle.png",
     "originChain": "acala",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": [
@@ -262,6 +273,7 @@
     "hasValue": true,
     "ordinal": 20,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala-local-aseed.png",
+    "icon_alternative": null,
     "originChain": "acala",
     "multiChainAsset": "aSEED-aSEEDAcala",
     "assetRefs": []
@@ -282,6 +294,7 @@
     "hasValue": true,
     "ordinal": 24,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala-local-tdot.png",
+    "icon_alternative": null,
     "originChain": "acala",
     "multiChainAsset": null,
     "assetRefs": []
@@ -308,6 +321,7 @@
     "hasValue": true,
     "ordinal": 10,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala-native-aca.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala_square.png",
     "originChain": "acala",
     "multiChainAsset": "ACA-Acala",
     "assetRefs": [
@@ -337,6 +351,7 @@
     "hasValue": true,
     "ordinal": 437,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala_evm-native-aca.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala_square.png",
     "originChain": "acala_evm",
     "multiChainAsset": "ACA-Acala",
     "assetRefs": []
@@ -353,6 +368,7 @@
     "hasValue": false,
     "ordinal": 139,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala_testnet-native-aca.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala_square.png",
     "originChain": "acala_testnet",
     "multiChainAsset": null,
     "assetRefs": []
@@ -369,6 +385,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acurast-native-cacu.png",
+    "icon_alternative": null,
     "originChain": "acurast",
     "multiChainAsset": null,
     "assetRefs": []
@@ -385,6 +402,7 @@
     "hasValue": true,
     "ordinal": 182,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ajunapolkadot-native-ajun.png",
+    "icon_alternative": null,
     "originChain": "ajunaPolkadot",
     "multiChainAsset": null,
     "assetRefs": []
@@ -401,6 +419,7 @@
     "hasValue": true,
     "ordinal": 7,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph-native-azero.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph_square.png",
     "originChain": "aleph",
     "multiChainAsset": "AZERO-AlephZero",
     "assetRefs": []
@@ -421,6 +440,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph-psp22-cld-5cj3dz4rm4j2cppq49ywyiagdyatqk7hpud6y1j1wy8qwdfb.png",
+    "icon_alternative": null,
     "originChain": "aleph",
     "multiChainAsset": null,
     "assetRefs": []
@@ -441,6 +461,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph-psp22-csd-5dpzhtsvzhtuagzzkqrxa2jlgphteaspn9mfynajx12vunts.png",
+    "icon_alternative": null,
     "originChain": "aleph",
     "multiChainAsset": null,
     "assetRefs": []
@@ -459,6 +480,7 @@
     "hasValue": true,
     "ordinal": 400,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph-psp22-inw-5h4acwlkupvpct6xgjzdgppxfocknkqu2juvnguw6bxepzst.png",
+    "icon_alternative": null,
     "originChain": "aleph",
     "multiChainAsset": null,
     "assetRefs": []
@@ -477,6 +499,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph-psp22-inw2-5ea7h2xcp9tkaweq8km2b7aqchpkvcqcs2bjwqyavoxiesfx.png",
+    "icon_alternative": null,
     "originChain": "aleph",
     "multiChainAsset": null,
     "assetRefs": []
@@ -495,6 +518,7 @@
     "hasValue": true,
     "ordinal": 421,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph-psp22-panx-5gsgacvqpf5suh2mhj1yudblabsscjeqcn2mimucwujnr5dq.png",
+    "icon_alternative": null,
     "originChain": "aleph",
     "multiChainAsset": null,
     "assetRefs": []
@@ -513,6 +537,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph-psp22-usdc-5fyfojncjvfr2bbnkfaepzca72zcvx5yetv8k9bzeuo8d83z.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdc_circle.png",
     "originChain": "aleph",
     "multiChainAsset": "USDC-USDCoin",
     "assetRefs": []
@@ -531,6 +556,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph-psp22-usdt-5et3ddcxuithrbcot7g65k3odsicgy4qc82cq9f911izknte.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdt_circle.png",
     "originChain": "aleph",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -549,6 +575,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph-psp22-wbtc-5eetcdklyyhqnnqwwwpm1fmdx1wdvuiaor9ca6cwttgyxtuj.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/wbtc_circle.png",
     "originChain": "aleph",
     "multiChainAsset": "WBTC-WrappedBTC",
     "assetRefs": []
@@ -567,6 +594,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph-psp22-weth-5eofqd36196duo6fptz2mwhxrzwtjcyethycyab3rb61xo2u.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum_circle.png",
     "originChain": "aleph",
     "multiChainAsset": "WETH-WrappedEther",
     "assetRefs": []
@@ -585,6 +613,7 @@
     "hasValue": true,
     "ordinal": 425,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph-psp34-azerodomain-5ctqbfbc9sfdrcdbjdfliyw2pg9z5w6c6es8sk313blnfgdf.png",
+    "icon_alternative": null,
     "originChain": "aleph",
     "multiChainAsset": null,
     "assetRefs": []
@@ -601,6 +630,7 @@
     "hasValue": false,
     "ordinal": 207,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/alephsmartnet-native-szero.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph_square.png",
     "originChain": "alephSmartNet",
     "multiChainAsset": null,
     "assetRefs": []
@@ -617,6 +647,7 @@
     "hasValue": false,
     "ordinal": 25,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/alephtest-native-tzero.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph_square.png",
     "originChain": "alephTest",
     "multiChainAsset": null,
     "assetRefs": []
@@ -633,6 +664,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph_evm-native-azero.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph_square.png",
     "originChain": "aleph_evm",
     "multiChainAsset": "AZERO-AlephZero",
     "assetRefs": []
@@ -649,6 +681,7 @@
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph_testnet_evm-native-tzero.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph_square.png",
     "originChain": "aleph_testnet_evm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -665,6 +698,7 @@
     "hasValue": true,
     "ordinal": 115,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/altair-native-air.png",
+    "icon_alternative": null,
     "originChain": "altair",
     "multiChainAsset": null,
     "assetRefs": []
@@ -690,6 +724,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/amplitude-local-audd.s.png",
+    "icon_alternative": null,
     "originChain": "amplitude",
     "multiChainAsset": "AUDD.s-StellarAUDD",
     "assetRefs": []
@@ -715,6 +750,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/amplitude-local-brl.s.png",
+    "icon_alternative": null,
     "originChain": "amplitude",
     "multiChainAsset": "BRL.s-StellarBRL",
     "assetRefs": []
@@ -740,6 +776,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/amplitude-local-eurc.s.png",
+    "icon_alternative": null,
     "originChain": "amplitude",
     "multiChainAsset": "EURC.s-StellarEURC",
     "assetRefs": []
@@ -760,6 +797,7 @@
     "hasValue": true,
     "ordinal": 100,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/amplitude-local-ksm.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/kusama_square.png",
     "originChain": "amplitude",
     "multiChainAsset": "KSM-Kusama",
     "assetRefs": []
@@ -785,6 +823,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/amplitude-local-ngnc.s.png",
+    "icon_alternative": null,
     "originChain": "amplitude",
     "multiChainAsset": "NGNC.s-StellarNGNC",
     "assetRefs": []
@@ -810,6 +849,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/amplitude-local-usdc.s.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdc_circle.png",
     "originChain": "amplitude",
     "multiChainAsset": "USDC-USDCoin",
     "assetRefs": []
@@ -831,6 +871,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/amplitude-local-usdt.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdt_circle.png",
     "originChain": "amplitude",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -851,6 +892,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/amplitude-local-xlm.s.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/stellar_square.png",
     "originChain": "amplitude",
     "multiChainAsset": "XLM.s-StellarLumen",
     "assetRefs": []
@@ -867,6 +909,7 @@
     "hasValue": true,
     "ordinal": 75,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/amplitude-native-ampe.png",
+    "icon_alternative": null,
     "originChain": "amplitude",
     "multiChainAsset": null,
     "assetRefs": []
@@ -883,6 +926,7 @@
     "hasValue": false,
     "ordinal": 76,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/amplitude_test-native-ampe.png",
+    "icon_alternative": null,
     "originChain": "amplitude_test",
     "multiChainAsset": null,
     "assetRefs": []
@@ -899,6 +943,7 @@
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/analog_testnet-native-tanlog.png",
+    "icon_alternative": null,
     "originChain": "analog_testnet",
     "multiChainAsset": null,
     "assetRefs": []
@@ -917,6 +962,7 @@
     "hasValue": true,
     "ordinal": 13,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/arbitrum_one-erc20-arb-0x912ce59144191c1204e64559fe8253a0e49e6548.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/arbitrum_circle.png",
     "originChain": "arbitrum_one",
     "multiChainAsset": "ARB-ArbitrumOne",
     "assetRefs": []
@@ -935,6 +981,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/arbitrum_one-erc20-sqd-0x1337420ded5adb9980cfc35f8f2b054ea86f8ab1.png",
+    "icon_alternative": null,
     "originChain": "arbitrum_one",
     "multiChainAsset": null,
     "assetRefs": []
@@ -953,6 +1000,7 @@
     "hasValue": true,
     "ordinal": 394,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/arbitrum_one-erc20-usdc-0xaf88d065e77c8cc2239327c5edb3a432268e5831.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdc_circle.png",
     "originChain": "arbitrum_one",
     "multiChainAsset": "USDC-USDCoin",
     "assetRefs": []
@@ -971,6 +1019,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/arbitrum_one-erc20-usdc.e-0xff970a61a04b1ca14834a43f5de4533ebddb5cc8.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdc_circle.png",
     "originChain": "arbitrum_one",
     "multiChainAsset": "USDC-USDCoin",
     "assetRefs": []
@@ -989,6 +1038,7 @@
     "hasValue": true,
     "ordinal": 390,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/arbitrum_one-erc20-usdt-0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdt_circle.png",
     "originChain": "arbitrum_one",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -1005,6 +1055,7 @@
     "hasValue": true,
     "ordinal": 12,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/arbitrum_one-native-eth.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum_circle.png",
     "originChain": "arbitrum_one",
     "multiChainAsset": "ETH-Ethereum",
     "assetRefs": []
@@ -1023,6 +1074,7 @@
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdc-usdcoin.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdc_circle.png",
     "originChain": "arbitrum_sepolia",
     "multiChainAsset": "USDC-USDCSepolia",
     "assetRefs": []
@@ -1039,6 +1091,7 @@
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/sepolia_ethereum.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum_circle.png",
     "originChain": "arbitrum_sepolia",
     "multiChainAsset": "ETH-EthereumSepolia",
     "assetRefs": []
@@ -1057,6 +1110,7 @@
     "hasValue": true,
     "ordinal": 231,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astar-local-aca.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala_square.png",
     "originChain": "astar",
     "multiChainAsset": "ACA-Acala",
     "assetRefs": []
@@ -1079,6 +1133,7 @@
     "hasValue": true,
     "ordinal": 33,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astar-local-dot.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/polkadot_square.png",
     "originChain": "astar",
     "multiChainAsset": "DOT-Polkadot",
     "assetRefs": [
@@ -1104,6 +1159,7 @@
     "hasValue": true,
     "ordinal": 230,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astar-local-ldot.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/polkadot_square.png",
     "originChain": "astar",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1138,6 +1194,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astar-local-pink.png",
+    "icon_alternative": null,
     "originChain": "astar",
     "multiChainAsset": "PINK-StatemintPink",
     "assetRefs": [
@@ -1179,6 +1236,7 @@
     "hasValue": true,
     "ordinal": 34,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astar-local-usdt.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdt_circle.png",
     "originChain": "astar",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": [
@@ -1217,6 +1275,7 @@
     "hasValue": true,
     "ordinal": 229,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astar-local-aseed.png",
+    "icon_alternative": null,
     "originChain": "astar",
     "multiChainAsset": "aSEED-aSEEDAcala",
     "assetRefs": []
@@ -1238,6 +1297,7 @@
     "hasValue": true,
     "ordinal": 8,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astar-native-astr.png",
+    "icon_alternative": null,
     "originChain": "astar",
     "multiChainAsset": "ASTR-Astar",
     "assetRefs": [
@@ -1263,6 +1323,7 @@
     "hasValue": true,
     "ordinal": 440,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astar-psp34-neuroguns-az9bd2thegkrs3fnjv5oe7kgvrp5gqvdjmhc2gxjxa2yqbd.png",
+    "icon_alternative": null,
     "originChain": "astar",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1281,6 +1342,7 @@
     "hasValue": true,
     "ordinal": 381,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astar-psp34-neurolauncher-bylgjmskwd4s4pteacf2snbwfem4bners27fgnvcc9sqre4.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astar-psp34-neurolauncher-bylgjmskwd4s4pteacf2snbwfem4bners27fgnvcc9sqre4.png",
     "originChain": "astar",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1299,6 +1361,7 @@
     "hasValue": true,
     "ordinal": 397,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astar-psp34-serpenators-wcx5y1wsgpbxqqtn75jxnthey9w4ezsekcdjg2jx3gca97d.png",
+    "icon_alternative": null,
     "originChain": "astar",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1317,6 +1380,7 @@
     "hasValue": true,
     "ordinal": 398,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astar-psp34-usagii-wvyvtr9ktvxa9frrfjpxvegytu5k5lf491xzfhmql3hadn6.png",
+    "icon_alternative": null,
     "originChain": "astar",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1335,6 +1399,7 @@
     "hasValue": true,
     "ordinal": 273,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-arsw-0xde2578edec4669ba7f41c5d5d2386300bcea4678.png",
+    "icon_alternative": null,
     "originChain": "astarEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1353,6 +1418,7 @@
     "hasValue": true,
     "ordinal": 290,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-arsw_lp-0x87988ebde7e661f44eb3a586c5e0ceab533a2d9c.png",
+    "icon_alternative": null,
     "originChain": "astarEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1371,6 +1437,7 @@
     "hasValue": true,
     "ordinal": 276,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-atid-0x5271d85ce4241b310c0b34b7c2f1f036686a6d7c.png",
+    "icon_alternative": null,
     "originChain": "astarEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1389,6 +1456,7 @@
     "hasValue": true,
     "ordinal": 275,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-bai-0x733ebcc6df85f8266349defd0980f8ced9b45f35.png",
+    "icon_alternative": null,
     "originChain": "astarEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1407,6 +1475,7 @@
     "hasValue": true,
     "ordinal": 279,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-bnb-0x7f27352d5f83db87a5a3e00f4b07cc2138d8ee52.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/binance_circle.png",
     "originChain": "astarEvm",
     "multiChainAsset": "BNB-Binance",
     "assetRefs": []
@@ -1425,6 +1494,7 @@
     "hasValue": true,
     "ordinal": 280,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-busd-0x4bf769b05e832fcdc9053fffbc78ca889acb5e1e.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/busd_circle.png",
     "originChain": "astarEvm",
     "multiChainAsset": "BUSD-BinanceUSD",
     "assetRefs": []
@@ -1443,6 +1513,7 @@
     "hasValue": true,
     "ordinal": 281,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-crv-0x7756a83563f0f56937a6fdf668e7d9f387c0d199.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/crv_square.png",
     "originChain": "astarEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1461,6 +1532,7 @@
     "hasValue": true,
     "ordinal": 282,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-dai-0x6de33698e9e9b787e09d3bd7771ef63557e148bb.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/dai_circle.png",
     "originChain": "astarEvm",
     "multiChainAsset": "DAI-DaiStablecoin",
     "assetRefs": []
@@ -1479,6 +1551,7 @@
     "hasValue": true,
     "ordinal": 272,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-dot-0xffffffffffffffffffffffffffffffffffffffff.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/polkadot_square.png",
     "originChain": "astarEvm",
     "multiChainAsset": "DOT-Polkadot",
     "assetRefs": []
@@ -1497,6 +1570,7 @@
     "hasValue": true,
     "ordinal": 291,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-kos-0xbcf7aa4fc081f5670d9b8a1bdd1cfd98dcaee6e6.png",
+    "icon_alternative": null,
     "originChain": "astarEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1515,6 +1589,7 @@
     "hasValue": true,
     "ordinal": 288,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-kzy-0x3d4dcfd2b483549527f7611ccfecb40b47d0c17b.png",
+    "icon_alternative": null,
     "originChain": "astarEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1533,6 +1608,7 @@
     "hasValue": true,
     "ordinal": 274,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-lay-0xc4335b1b76fa6d52877b3046eca68f6e708a27dd.png",
+    "icon_alternative": null,
     "originChain": "astarEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1551,6 +1627,7 @@
     "hasValue": true,
     "ordinal": 278,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-oru-0xcdb32eed99aa19d39e5d6ec45ba74dc4afec549f.png",
+    "icon_alternative": null,
     "originChain": "astarEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1569,6 +1646,7 @@
     "hasValue": true,
     "ordinal": 283,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-pkex-0x1fe622e91e54d6ad00b01917351ea6081426764a.png",
+    "icon_alternative": null,
     "originChain": "astarEvm",
     "multiChainAsset": "PKEX-PolkaEx",
     "assetRefs": []
@@ -1587,6 +1665,7 @@
     "hasValue": true,
     "ordinal": 292,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-ppc-0x34f79636a55d9961e47b7784ef460b021b499406.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/pepe_square.png",
     "originChain": "astarEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1605,6 +1684,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-rmrk-0x524d524b4c9366be706d3a90dcf70076ca037ae3.png",
+    "icon_alternative": null,
     "originChain": "astarEvm",
     "multiChainAsset": "RMRK-RMRKApp",
     "assetRefs": []
@@ -1623,6 +1703,7 @@
     "hasValue": true,
     "ordinal": 284,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-sdn-0x75364d4f779d0bd0facd9a218c67f87dd9aff3b4.png",
+    "icon_alternative": null,
     "originChain": "astarEvm",
     "multiChainAsset": "SDN-Shiden",
     "assetRefs": []
@@ -1641,6 +1722,7 @@
     "hasValue": true,
     "ordinal": 277,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-srs-0x9448610696659de8f72e1831d392214ae1ca4838.png",
+    "icon_alternative": null,
     "originChain": "astarEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1659,6 +1741,7 @@
     "hasValue": true,
     "ordinal": 285,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-usdc-0x6a2d262d56735dba19dd70682b39f6be9a931d98.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdc_circle.png",
     "originChain": "astarEvm",
     "multiChainAsset": "USDC-USDCoin",
     "assetRefs": []
@@ -1677,6 +1760,7 @@
     "hasValue": true,
     "ordinal": 36,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-usdt-0xffffffff000000000000000000000001000007c0.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdt_circle.png",
     "originChain": "astarEvm",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -1695,6 +1779,7 @@
     "hasValue": true,
     "ordinal": 289,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-wastr-0xaeaaf0e2c81af264101b9129c00f4440ccf0f720.png",
+    "icon_alternative": null,
     "originChain": "astarEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1713,6 +1798,7 @@
     "hasValue": true,
     "ordinal": 286,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-wbtc-0xad543f18cff85c77e140e3e5e3c3392f6ba9d5ca.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/wbtc_circle.png",
     "originChain": "astarEvm",
     "multiChainAsset": "WBTC-WrappedBTC",
     "assetRefs": []
@@ -1731,6 +1817,7 @@
     "hasValue": true,
     "ordinal": 287,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-weth-0x81ecac0d6be0550a00ff064a4f9dd2400585fe9c.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum_circle.png",
     "originChain": "astarEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1749,6 +1836,7 @@
     "hasValue": true,
     "ordinal": 232,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc20-aseed-0xffffffff00000000000000010000000000000001.png",
+    "icon_alternative": null,
     "originChain": "astarEvm",
     "multiChainAsset": "aSEED-aSEEDAcala",
     "assetRefs": []
@@ -1767,6 +1855,7 @@
     "hasValue": true,
     "ordinal": 384,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc721-anaut-0xf008371a7eed0ab54fdd975fe0d0f66fefba3415.png",
+    "icon_alternative": null,
     "originChain": "astarEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1785,6 +1874,7 @@
     "hasValue": true,
     "ordinal": 382,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc721-ap-0x1b57c69838cdbc59c8236dda73287a4780b4831f.png",
+    "icon_alternative": null,
     "originChain": "astarEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1803,6 +1893,7 @@
     "hasValue": true,
     "ordinal": 385,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc721-cat-0x8b5d62f396ca3c6cf19803234685e693733f9779.png",
+    "icon_alternative": null,
     "originChain": "astarEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1821,6 +1912,7 @@
     "hasValue": true,
     "ordinal": 383,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc721-degen-0xd59fc6bfd9732ab19b03664a45dc29b8421bda9a.png",
+    "icon_alternative": null,
     "originChain": "astarEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1839,6 +1931,7 @@
     "hasValue": true,
     "ordinal": 380,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-erc721-ghost-0xb4bd85893d6f66869d7766ace1b1eb4d867d963e.png",
+    "icon_alternative": null,
     "originChain": "astarEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1855,6 +1948,7 @@
     "hasValue": true,
     "ordinal": 35,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm-native-astr.png",
+    "icon_alternative": null,
     "originChain": "astarEvm",
     "multiChainAsset": "ASTR-Astar",
     "assetRefs": []
@@ -1873,6 +1967,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarzkevm-erc20-astr-0xdf41220c7e322bfef933d85d01821ad277f90172.png",
+    "icon_alternative": null,
     "originChain": "astarZkEvm",
     "multiChainAsset": "ASTR-Astar",
     "assetRefs": []
@@ -1889,6 +1984,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarzkevm-native-eth.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum_circle.png",
     "originChain": "astarZkEvm",
     "multiChainAsset": "ETH-Ethereum",
     "assetRefs": []
@@ -1905,6 +2001,7 @@
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/atletaolympia_testnet-native-atla.png",
+    "icon_alternative": null,
     "originChain": "atletaOlympia_testnet",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1921,6 +2018,7 @@
     "hasValue": true,
     "ordinal": 176,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/atocha-native-ato.png",
+    "icon_alternative": null,
     "originChain": "atocha",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1937,6 +2035,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aura-native-aura.png",
+    "icon_alternative": null,
     "originChain": "aura",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1953,6 +2052,7 @@
     "hasValue": true,
     "ordinal": 193,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/automata-native-ata.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/automata_square.png",
     "originChain": "automata",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1969,6 +2069,7 @@
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/availturingtest-native-avail.png",
+    "icon_alternative": null,
     "originChain": "availTuringTest",
     "multiChainAsset": null,
     "assetRefs": []
@@ -1985,6 +2086,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/avail_mainnet-native-avail.png",
+    "icon_alternative": null,
     "originChain": "avail_mainnet",
     "multiChainAsset": "AVAIL-Avail",
     "assetRefs": [
@@ -2008,6 +2110,7 @@
     "hasValue": true,
     "ordinal": 429,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/avalanche_c-native-avax.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/avalanchec_circle.png",
     "originChain": "avalanche_c",
     "multiChainAsset": null,
     "assetRefs": []
@@ -2024,6 +2127,7 @@
     "hasValue": true,
     "ordinal": 321,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aventus-native-avt.png",
+    "icon_alternative": null,
     "originChain": "aventus",
     "multiChainAsset": null,
     "assetRefs": []
@@ -2040,6 +2144,7 @@
     "hasValue": false,
     "ordinal": 322,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aventus_testnet-native-avt.png",
+    "icon_alternative": null,
     "originChain": "aventus_testnet",
     "multiChainAsset": null,
     "assetRefs": []
@@ -2058,6 +2163,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/b2-erc20-bstone-0x7537c1f80c9e157ed7afd93a494be3e1f04f1462.png",
+    "icon_alternative": null,
     "originChain": "b2",
     "multiChainAsset": null,
     "assetRefs": []
@@ -2076,6 +2182,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/b2-erc20-eth-0xd48d3a551757ac47655fce25bde1b0b6b1cb2a5a.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum_circle.png",
     "originChain": "b2",
     "multiChainAsset": "ETH-Ethereum",
     "assetRefs": []
@@ -10038,6 +10145,7 @@
     "hasValue": false,
     "ordinal": 247,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/moonbase-erc20-mfg-0x3ef88816ebe8f50019e931bdffb0e428a44a29b1.png",
+    "icon_alternative":  "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/moonbasealpha_square.png",
     "originChain": "moonbase",
     "multiChainAsset": null,
     "assetRefs": []
@@ -10056,6 +10164,7 @@
     "hasValue": false,
     "ordinal": 246,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/moonbase-erc20-mfr-0xc2bfd8e028b342f0537adc2bf310821c807c1312.png",
+    "icon_alternative":  "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/moonbasealpha_square.png",
     "originChain": "moonbase",
     "multiChainAsset": null,
     "assetRefs": []
@@ -10072,6 +10181,7 @@
     "hasValue": false,
     "ordinal": 46,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/moonbase-native-dev.png",
+    "icon_alternative":  "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/moonbasealpha_square.png",
     "originChain": "moonbase",
     "multiChainAsset": "DEV-MoonbaseDev",
     "assetRefs": []
@@ -10090,6 +10200,7 @@
     "hasValue": true,
     "ordinal": 252,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/moonbeam-erc20-beans-0x65b09ef8c5a096c5fd3a80f1f7369e56eb932412.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/moonbeam_square.png",
     "originChain": "moonbeam",
     "multiChainAsset": null,
     "assetRefs": []
@@ -10108,6 +10219,7 @@
     "hasValue": true,
     "ordinal": 249,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/moonbeam-erc20-bnb-0xc9baa8cfdde8e328787e29b4b078abf2dadc2055.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/binance_circle.png",
     "originChain": "moonbeam",
     "multiChainAsset": "BNB-Binance",
     "assetRefs": []
