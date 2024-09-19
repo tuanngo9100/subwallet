@@ -29,6 +29,15 @@ A1. MultiChain
 - vASTR-BifrostVoucherASTR
 - vDOT-VoucherDot
 
+- APE-ApeCoin: apecoin
+- ASTR-Astar: astr-astar
+- AVAIL-Avail: avail
+- AZERO-AlephZero: azero-alephzero
+- BEEFY-BEEFY: beefy
+- BNB-Binance: bnb-binance
+- BNCS-InscriptionToken: bncs-inscriptiontoken
+- BORK-BORK: bork
+- 
 
 A2. ChainAsset
 A3. ChainInfo

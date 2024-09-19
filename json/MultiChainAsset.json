@@ -5,7 +5,7 @@
     "symbol": "ACA",
     "priceId": "acala",
     "hasValue": true,
-    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aca-acala.png",
+    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala_square.png",
     "originChainAsset": "acala-NATIVE-ACA",
     "chainAssets": [
       "acala-NATIVE-ACA",
@@ -35,7 +35,7 @@
     "symbol": "ARB",
     "priceId": "arbitrum",
     "hasValue": true,
-    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/arb-arbitrumone.png",
+    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/arbitrumgoerli_square.png",
     "originChainAsset": "arbitrum_one-ERC20-ARB-0x912CE59144191C1204E64559FE8253a0e49E6548",
     "chainAssets": [
       "arbitrum_one-ERC20-ARB-0x912CE59144191C1204E64559FE8253a0e49E6548"
@@ -66,7 +66,7 @@
     "symbol": "AUDD.s",
     "priceId": "novatti-australian-digital-dollar",
     "hasValue": true,
-    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/audd.s-stellaraudd.png",
+    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/stellar_square.png",
     "originChainAsset": null,
     "chainAssets": [
       "pendulum-LOCAL-AUDD.s",
@@ -135,7 +135,7 @@
     "symbol": "BNC",
     "priceId": "bifrost-native-coin",
     "hasValue": true,
-    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bnc-bifrostkusama.png",
+    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/kusama_square.png",
     "originChainAsset": "bifrost-NATIVE-BNC",
     "chainAssets": [
       "bifrost-NATIVE-BNC",
@@ -151,7 +151,7 @@
     "symbol": "BNC",
     "priceId": "bifrost-native-coin",
     "hasValue": true,
-    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bnc-bifrostpolkadot.png",
+    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/polkadot_square.png",
     "originChainAsset": "bifrost_dot-NATIVE-BNC",
     "chainAssets": [
       "bifrost_dot-NATIVE-BNC",
@@ -177,7 +177,7 @@
     "symbol": "BOBA",
     "priceId": "boba-network",
     "hasValue": true,
-    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/boba-bobatoken.png",
+    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/boba_square.png",
     "originChainAsset": null,
     "chainAssets": [
       "boba-ERC20-BOBA-0xa18bf3994c0cc6e3b63ac420308e5383f53120d7"
@@ -202,7 +202,7 @@
     "symbol": "BRL.s",
     "priceId": null,
     "hasValue": true,
-    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/brl.s-stellarbrl.png",
+    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/stellar_square.png",
     "originChainAsset": null,
     "chainAssets": [
       "pendulum-LOCAL-BRL.s",
@@ -215,7 +215,7 @@
     "symbol": "BTC",
     "priceId": "bitcoin",
     "hasValue": true,
-    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/btc-bitcoin.png",
+    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/btcdiamond_square.png",
     "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bitcoin_circle.png",
     "originChainAsset": "bitcoin-NATIVE-BTC",
     "chainAssets": [
