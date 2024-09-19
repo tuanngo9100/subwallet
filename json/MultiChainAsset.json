@@ -763,7 +763,7 @@
     "priceId": null,
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/mill.png",
-    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/million_circle.png",
+    "icon_alternative": null,
     "originChainAsset": null,
     "chainAssets": [
       "hydradx_main-LOCAL-Mill",
