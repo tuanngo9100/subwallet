@@ -5574,7 +5574,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/energy_web_chain-native-ewt.png",
-    "icon_alternative": null,
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/energyweb_circle.png",
     "originChain": "energy_web_chain",
     "multiChainAsset": null,
     "assetRefs": []
@@ -5591,7 +5591,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/energy_web_x-native-ewt.png",
-    "icon_alternative": null,
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/energyweb_circle.png",
     "originChain": "energy_web_x",
     "multiChainAsset": null,
     "assetRefs": []
@@ -5608,7 +5608,7 @@
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/energy_web_x_rococo-native-vt.png",
-    "icon_alternative": null,
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/energyweb_circle.png",
     "originChain": "energy_web_x_rococo",
     "multiChainAsset": null,
     "assetRefs": []
@@ -5849,7 +5849,7 @@
     "hasValue": true,
     "ordinal": 313,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/equilibrium_parachain-local-glmr.png",
-    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/moonriver_square.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/moonbeam_square.png",
     "originChain": "equilibrium_parachain",
     "multiChainAsset": "GLMR-Moonbeam",
     "assetRefs": []
@@ -6365,6 +6365,7 @@
     "hasValue": true,
     "ordinal": 364,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-matic-0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/polygonmumbai_circle.png",
     "originChain": "ethereum",
     "multiChainAsset": "MATIC-Polygon",
     "assetRefs": []
@@ -6383,6 +6384,7 @@
     "hasValue": true,
     "ordinal": 359,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-mkr-0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/maker_circle.png",
     "originChain": "ethereum",
     "multiChainAsset": null,
     "assetRefs": []
@@ -6401,6 +6403,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-myth-0xba41ddf06b7ffd89d1267b5a93bfef2424eb2003.png",
+    "icon_alternative": null,
     "originChain": "ethereum",
     "multiChainAsset": "MYTH-Mythos",
     "assetRefs": [
@@ -6426,6 +6429,7 @@
     "hasValue": true,
     "ordinal": 346,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-near-0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/near_square.png",
     "originChain": "ethereum",
     "multiChainAsset": null,
     "assetRefs": []
@@ -6444,6 +6448,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-pepe-0x6982508145454ce325ddbe47a25d4ec3d2311933.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/pepe_square.png",
     "originChain": "ethereum",
     "multiChainAsset": "PEPE-Pepe",
     "assetRefs": [
@@ -6469,6 +6474,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-route-0x60f67e1015b3f069dd4358a78c38f83fe3a667a9.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/route_circle.png",
     "originChain": "ethereum",
     "multiChainAsset": "ROUTE-RouteProtocol",
     "assetRefs": []
@@ -6487,6 +6493,7 @@
     "hasValue": true,
     "ordinal": 354,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-sand-0x3845badade8e6dff049820680d1f14bd3903a5d0.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/sandbox_square.png",
     "originChain": "ethereum",
     "multiChainAsset": null,
     "assetRefs": []
@@ -6505,6 +6512,7 @@
     "hasValue": true,
     "ordinal": 365,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-shib-0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/shiba_circle.png",
     "originChain": "ethereum",
     "multiChainAsset": "SHIB-SHIBAINU",
     "assetRefs": [
@@ -6530,6 +6538,7 @@
     "hasValue": true,
     "ordinal": 345,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-theta-0x3883f5e181fccaf8410fa61e12b59bad963fb645.png",
+    "icon_alternative": null,
     "originChain": "ethereum",
     "multiChainAsset": null,
     "assetRefs": []
@@ -6548,6 +6557,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-ton-0x582d872a1b094fc48f5de31d3b73f2d9be47def1.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ton_circle.png",
     "originChain": "ethereum",
     "multiChainAsset": "TON-TONCoin",
     "assetRefs": [
@@ -6573,6 +6583,7 @@
     "hasValue": true,
     "ordinal": 363,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-uni-0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/uni_circle.png",
     "originChain": "ethereum",
     "multiChainAsset": null,
     "assetRefs": []
@@ -6591,6 +6602,7 @@
     "hasValue": true,
     "ordinal": 339,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-usdc-0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdc_circle.png",
     "originChain": "ethereum",
     "multiChainAsset": "USDC-USDCoin",
     "assetRefs": [
@@ -6616,6 +6628,7 @@
     "hasValue": true,
     "ordinal": 426,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-usdd-0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdd_circle.png",
     "originChain": "ethereum",
     "multiChainAsset": "USDD-DecentralizedUSD",
     "assetRefs": []
@@ -6634,6 +6647,7 @@
     "hasValue": true,
     "ordinal": 337,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-usdt-0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdt_circle.png",
     "originChain": "ethereum",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -6652,6 +6666,7 @@
     "hasValue": true,
     "ordinal": 340,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-verse-0x249ca82617ec3dfb2589c4c17ab7ec9765350a18.png",
+    "icon_alternative": null,
     "originChain": "ethereum",
     "multiChainAsset": null,
     "assetRefs": []
@@ -6670,6 +6685,7 @@
     "hasValue": true,
     "ordinal": 361,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-wbtc-0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/wbtc_circle.png",
     "originChain": "ethereum",
     "multiChainAsset": "WBTC-WrappedBTC",
     "assetRefs": [
@@ -6695,6 +6711,7 @@
     "hasValue": true,
     "ordinal": 32,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-weth-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum_circle.png",
     "originChain": "ethereum",
     "multiChainAsset": "WETH-WrappedEther",
     "assetRefs": [
@@ -6720,6 +6737,7 @@
     "hasValue": true,
     "ordinal": 344,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-steth-0xae7ab96520de3a18e5e111b5eaab095312d7fe84.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/lidoETH_square.png",
     "originChain": "ethereum",
     "multiChainAsset": null,
     "assetRefs": []
@@ -6738,6 +6756,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-tbtc-0x18084fba666a33d37592fa2633fd49a74dd93a88.png",
+    "icon_alternative": null,
     "originChain": "ethereum",
     "multiChainAsset": "tBTC-tBTCv2",
     "assetRefs": [
@@ -6763,6 +6782,7 @@
     "hasValue": true,
     "ordinal": 404,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-veth-0x4bc3263eb5bb2ef7ad9ab6fb68be80e43b43801f.png",
+    "icon_alternative": null,
     "originChain": "ethereum",
     "multiChainAsset": null,
     "assetRefs": []
@@ -6781,6 +6801,7 @@
     "hasValue": true,
     "ordinal": 343,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-erc20-wsteth-0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/lidoETH_square.png",
     "originChain": "ethereum",
     "multiChainAsset": "wstETH-WrappedLiquidEther",
     "assetRefs": [
@@ -6804,6 +6825,7 @@
     "hasValue": true,
     "ordinal": 3,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum-native-eth.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum_circle.png",
     "originChain": "ethereum",
     "multiChainAsset": "ETH-Ethereum",
     "assetRefs": [
@@ -6829,6 +6851,7 @@
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum_goerli-erc20-usdc-0x07865c6e87b9f70255377e024ace6630c1eaa37f.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdc_circle.png",
     "originChain": "ethereum_goerli",
     "multiChainAsset": null,
     "assetRefs": [
@@ -6858,6 +6881,7 @@
     "hasValue": false,
     "ordinal": 81,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum_goerli-native-eth.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum_circle.png",
     "originChain": "ethereum_goerli",
     "multiChainAsset": null,
     "assetRefs": [
@@ -6887,6 +6911,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/exosama-native-sama.png",
+    "icon_alternative": null,
     "originChain": "exosama",
     "multiChainAsset": null,
     "assetRefs": []
@@ -6903,6 +6928,7 @@
     "hasValue": true,
     "ordinal": 408,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/fantom-native-ftm.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/fantom_circle.png",
     "originChain": "fantom",
     "multiChainAsset": "FTM-Fantom",
     "assetRefs": []
@@ -6919,6 +6945,7 @@
     "hasValue": false,
     "ordinal": 409,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/fantom_testnet-native-ftm.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/fantom_circle.png",
     "originChain": "fantom_testnet",
     "multiChainAsset": null,
     "assetRefs": []
@@ -6935,6 +6962,7 @@
     "hasValue": true,
     "ordinal": 184,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/frequency-native-frqcy.png",
+    "icon_alternative": null,
     "originChain": "frequency",
     "multiChainAsset": null,
     "assetRefs": []
@@ -6951,6 +6979,7 @@
     "hasValue": true,
     "ordinal": 173,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/fusotao-native-tao.png",
+    "icon_alternative": null,
     "originChain": "fusotao",
     "multiChainAsset": null,
     "assetRefs": []
@@ -6967,6 +6996,7 @@
     "hasValue": false,
     "ordinal": 164,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/gear_testnet-native-unit.png",
+    "icon_alternative": null,
     "originChain": "gear_testnet",
     "multiChainAsset": null,
     "assetRefs": []
@@ -6985,6 +7015,7 @@
     "hasValue": true,
     "ordinal": 124,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/genshiro-local-dot.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/polkadot_square.png",
     "originChain": "genshiro",
     "multiChainAsset": "DOT-Polkadot",
     "assetRefs": []
@@ -7003,6 +7034,7 @@
     "hasValue": true,
     "ordinal": 123,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/genshiro-native-gens.png",
+    "icon_alternative": null,
     "originChain": "genshiro",
     "multiChainAsset": null,
     "assetRefs": []
@@ -7021,6 +7053,7 @@
     "hasValue": false,
     "ordinal": 125,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/genshiro_testnet-native-token.png",
+    "icon_alternative": null,
     "originChain": "genshiro_testnet",
     "multiChainAsset": null,
     "assetRefs": []
@@ -7037,6 +7070,7 @@
     "hasValue": true,
     "ordinal": 158,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/gmdie-native-fren.png",
+    "icon_alternative": null,
     "originChain": "gmdie",
     "multiChainAsset": null,
     "assetRefs": []
@@ -7055,6 +7089,7 @@
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/goldberg_testnet-native-avl.png",
+    "icon_alternative": null,
     "originChain": "goldberg_testnet",
     "multiChainAsset": null,
     "assetRefs": []
@@ -7071,6 +7106,7 @@
     "hasValue": true,
     "ordinal": 185,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hashednetwork-native-hash.png",
+    "icon_alternative": null,
     "originChain": "hashedNetwork",
     "multiChainAsset": null,
     "assetRefs": []
@@ -7087,6 +7123,7 @@
     "hasValue": true,
     "ordinal": 116,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/heiko-native-hko.png",
+    "icon_alternative": null,
     "originChain": "heiko",
     "multiChainAsset": null,
     "assetRefs": []
@@ -7103,6 +7140,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/humanode-native-hmnd.png",
+    "icon_alternative": null,
     "originChain": "humanode",
     "multiChainAsset": "HMND-Humanode",
     "assetRefs": []
@@ -7121,6 +7159,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/humanodeevm-erc20-wehmnd-0x0000000000000000000000000000000000000802.png",
+    "icon_alternative": null,
     "originChain": "humanodeEvm",
     "multiChainAsset": "HMND-Humanode",
     "assetRefs": []
@@ -7137,6 +7176,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/humanodeevm-native-ehmnd.png",
+    "icon_alternative": null,
     "originChain": "humanodeEvm",
     "multiChainAsset": "HMND-Humanode",
     "assetRefs": []
@@ -7156,6 +7196,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-2pool.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": null,
     "assetRefs": [
@@ -7236,6 +7277,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-4pool.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": null,
     "assetRefs": [
@@ -7315,6 +7357,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-ape.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/apecoin_circle.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "APE-ApeCoin",
     "assetRefs": []
@@ -7335,6 +7378,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-astr.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "ASTR-Astar",
     "assetRefs": [
@@ -7430,6 +7474,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-beefy.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "BEEFY-BEEFY",
     "assetRefs": [
@@ -7455,6 +7500,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-bnc.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "BNC-BifrostPolkadot",
     "assetRefs": [
@@ -7492,6 +7538,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-bork.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "BORK-BORK",
     "assetRefs": []
@@ -7510,6 +7557,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-cfg.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/cfg_square.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "CFG-Centrifuge",
     "assetRefs": [
@@ -7547,6 +7595,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/cpcoin.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "CPcoin-Cypresscoin",
     "assetRefs": []
@@ -7565,6 +7614,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-cru.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/crust_circle.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "CRU-Crust",
     "assetRefs": []
@@ -7583,6 +7633,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-dai.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/dai_circle.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "DAI-DaiStablecoin",
     "assetRefs": []
@@ -7601,6 +7652,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-dai-18.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/dai_circle.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "DAI-DaiStablecoin",
     "assetRefs": []
@@ -7636,6 +7688,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-ded.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "DED-DED",
     "assetRefs": [
@@ -7718,6 +7771,7 @@
     "hasValue": true,
     "ordinal": 436,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-dot.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/polkadot_square.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "DOT-Polkadot",
     "assetRefs": [
@@ -7838,6 +7892,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-glmr.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/moonbeam_square.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "GLMR-Moonbeam",
     "assetRefs": [
@@ -7917,6 +7972,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-h2o.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": null,
     "assetRefs": []
@@ -7935,6 +7991,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-intr.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "INTR-Interlay",
     "assetRefs": []
@@ -7953,6 +8010,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-kilt.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "KILT-KILTProtocol",
     "assetRefs": []
@@ -7971,6 +8029,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-kol.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "KOL-Kolkadot",
     "assetRefs": []
@@ -7999,6 +8058,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-myth.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "MYTH-Mythos",
     "assetRefs": [
@@ -8030,6 +8090,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/mill.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "Mill-Million",
     "assetRefs": []
@@ -8048,6 +8109,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-pha.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/phala_circle.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "PHA-Phala",
     "assetRefs": [
@@ -8073,6 +8135,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-pink.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "PINK-StatemintPink",
     "assetRefs": [
@@ -8158,6 +8221,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-ring.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "RING-DarwiniaNetwork",
     "assetRefs": []
@@ -8192,6 +8256,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-stink.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "STINK-STINK",
     "assetRefs": [
@@ -8217,6 +8282,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-sub.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": null,
     "assetRefs": []
@@ -8235,6 +8301,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-unq.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "UNQ-UniqueNetwork",
     "assetRefs": []
@@ -8269,6 +8336,7 @@
     "hasValue": true,
     "ordinal": 442,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-usdc.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdc_circle.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "USDC-USDCoin",
     "assetRefs": [
@@ -8294,6 +8362,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-usdc-21.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdc_circle.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "USDC-USDCoin",
     "assetRefs": []
@@ -8329,6 +8398,7 @@
     "hasValue": true,
     "ordinal": 88,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-usdt.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdt_circle.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": [
@@ -8426,6 +8496,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-usdt-23.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdt_circle.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": []
@@ -8444,6 +8515,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-wbtc.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/wbtc_circle.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "WBTC-WrappedBTC",
     "assetRefs": []
@@ -8463,6 +8535,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-weth.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum_circle.png",
     "originChain": "hydradx_main",
     "multiChainAsset": "ETH-Ethereum",
     "assetRefs": [
@@ -8542,6 +8615,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-wifd.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "WIFD-DogWifDots",
     "assetRefs": []
@@ -8560,6 +8634,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-wud.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "WUD-GavunWud",
     "assetRefs": [
@@ -8591,6 +8666,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-ztg.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "ZTG-Zeitgeist",
     "assetRefs": []
@@ -8609,6 +8685,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-ibtc.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "iBTC-interBTC",
     "assetRefs": []
@@ -8627,6 +8704,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-vastr.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "vASTR-BifrostVoucherASTR",
     "assetRefs": [
@@ -8653,6 +8731,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-local-vdot.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "vDOT-VoucherDot",
     "assetRefs": [
@@ -8739,6 +8818,7 @@
     "hasValue": true,
     "ordinal": 87,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_main-native-hdx.png",
+    "icon_alternative": null,
     "originChain": "hydradx_main",
     "multiChainAsset": "HDX-HydraDX",
     "assetRefs": [
@@ -8830,6 +8910,7 @@
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_rococo-local-dot.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/polkadot_square.png",
     "originChain": "hydradx_rococo",
     "multiChainAsset": null,
     "assetRefs": [
@@ -8861,6 +8942,7 @@
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_rococo-local-usdt.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdt_circle.png",
     "originChain": "hydradx_rococo",
     "multiChainAsset": null,
     "assetRefs": [
@@ -8892,6 +8974,7 @@
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hydradx_rococo-native-hdx.png",
+    "icon_alternative": null,
     "originChain": "hydradx_rococo",
     "multiChainAsset": null,
     "assetRefs": [
@@ -8923,6 +9006,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hyperbridge-native-nand.png",
+    "icon_alternative": null,
     "originChain": "hyperbridge",
     "multiChainAsset": null,
     "assetRefs": []
@@ -8939,6 +9023,7 @@
     "hasValue": true,
     "ordinal": 146,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/imbue_network-native-imbu.png",
+    "icon_alternative": null,
     "originChain": "imbue_network",
     "multiChainAsset": null,
     "assetRefs": []
@@ -8955,6 +9040,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/immutablezkevm-native-imx.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/immutable_square.png",
     "originChain": "immutableZkEvm",
     "multiChainAsset": null,
     "assetRefs": []
@@ -8971,6 +9057,7 @@
     "hasValue": true,
     "ordinal": 132,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/integritee-native-teer.png",
+    "icon_alternative": null,
     "originChain": "integritee",
     "multiChainAsset": null,
     "assetRefs": []
@@ -8987,6 +9074,7 @@
     "hasValue": true,
     "ordinal": 133,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/integriteepolkadot-native-teer.png",
+    "icon_alternative": null,
     "originChain": "integriteePolkadot",
     "multiChainAsset": null,
     "assetRefs": []
@@ -9007,6 +9095,7 @@
     "hasValue": true,
     "ordinal": 435,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/interlay-local-dot.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/polkadot_square.png",
     "originChain": "interlay",
     "multiChainAsset": "DOT-Polkadot",
     "assetRefs": [
@@ -9034,6 +9123,7 @@
     "hasValue": true,
     "ordinal": 92,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/interlay-local-ldot.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/polkadot_square.png",
     "originChain": "interlay",
     "multiChainAsset": null,
     "assetRefs": []
@@ -9061,6 +9151,7 @@
     "hasValue": true,
     "ordinal": 411,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/interlay-local-lp_dot_ibtc.png",
+    "icon_alternative": null,
     "originChain": "interlay",
     "multiChainAsset": null,
     "assetRefs": []
@@ -9088,6 +9179,7 @@
     "hasValue": true,
     "ordinal": 413,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/interlay-local-lp_intr_usdt.png",
+    "icon_alternative": null,
     "originChain": "interlay",
     "multiChainAsset": null,
     "assetRefs": []
@@ -9115,6 +9207,7 @@
     "hasValue": true,
     "ordinal": 412,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/interlay-local-lp_ibtc_usdt.png",
+    "icon_alternative": null,
     "originChain": "interlay",
     "multiChainAsset": null,
     "assetRefs": []
@@ -9135,6 +9228,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/interlay-local-usdc.wh.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdc_circle.png",
     "originChain": "interlay",
     "multiChainAsset": "USDC-USDCoin",
     "assetRefs": []
@@ -9155,6 +9249,7 @@
     "hasValue": true,
     "ordinal": 93,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/interlay-local-usdt.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdt_circle.png",
     "originChain": "interlay",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": [
@@ -9182,6 +9277,7 @@
     "hasValue": true,
     "ordinal": 94,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/interlay-local-ibtc.png",
+    "icon_alternative": null,
     "originChain": "interlay",
     "multiChainAsset": "iBTC-interBTC",
     "assetRefs": [
@@ -9209,6 +9305,7 @@
     "hasValue": true,
     "ordinal": 415,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/interlay-local-qdot.png",
+    "icon_alternative": null,
     "originChain": "interlay",
     "multiChainAsset": null,
     "assetRefs": []
@@ -9229,6 +9326,7 @@
     "hasValue": true,
     "ordinal": 414,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/interlay-local-qibtc.png",
+    "icon_alternative": null,
     "originChain": "interlay",
     "multiChainAsset": null,
     "assetRefs": []
@@ -9249,6 +9347,7 @@
     "hasValue": true,
     "ordinal": 416,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/interlay-local-qusdt.png",
+    "icon_alternative": null,
     "originChain": "interlay",
     "multiChainAsset": null,
     "assetRefs": []
@@ -9269,6 +9368,7 @@
     "hasValue": true,
     "ordinal": 91,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/interlay-native-intr.png",
+    "icon_alternative": null,
     "originChain": "interlay",
     "multiChainAsset": "INTR-Interlay",
     "assetRefs": [
@@ -9300,6 +9400,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/invarch-native-varch.png",
+    "icon_alternative": null,
     "originChain": "invarch",
     "multiChainAsset": null,
     "assetRefs": []
@@ -9316,6 +9417,7 @@
     "hasValue": true,
     "ordinal": 188,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ipci-native-mito.png",
+    "icon_alternative": null,
     "originChain": "ipci",
     "multiChainAsset": null,
     "assetRefs": []
@@ -14522,6 +14624,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/mill.png",
+    "icon_alternative": null,
     "originChain": "statemint",
     "multiChainAsset": "Mill-Million",
     "assetRefs": []
@@ -14540,6 +14643,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/statemint-local-nctr.png",
+    "icon_alternative": null,
     "originChain": "statemint",
     "multiChainAsset": "NCTR-Apillon",
     "assetRefs": []
@@ -14578,6 +14682,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/statemint-local-pepe.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/pepe_square.png",
     "originChain": "statemint",
     "multiChainAsset": "PEPE-Pepe",
     "assetRefs": [
@@ -14616,6 +14721,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/statemint-local-pink.png",
+    "icon_alternative": null,
     "originChain": "statemint",
     "multiChainAsset": "PINK-StatemintPink",
     "assetRefs": [
@@ -14697,6 +14803,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/statemint-local-shib.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/shiba_circle.png",
     "originChain": "statemint",
     "multiChainAsset": "SHIB-SHIBAINU",
     "assetRefs": [
@@ -14735,6 +14842,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/statemint-local-stink.png",
+    "icon_alternative": null,
     "originChain": "statemint",
     "multiChainAsset": "STINK-STINK",
     "assetRefs": [
@@ -14780,6 +14888,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/statemint-local-ton.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ton_circle.png",
     "originChain": "statemint",
     "multiChainAsset": "TON-TONCoin",
     "assetRefs": [
@@ -14818,6 +14927,7 @@
     "hasValue": true,
     "ordinal": 439,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/statemint-local-usdc.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdc_circle.png",
     "originChain": "statemint",
     "multiChainAsset": "USDC-USDCoin",
     "assetRefs": [
@@ -14868,6 +14978,7 @@
     "hasValue": true,
     "ordinal": 210,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/statemint-local-usdt.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/usdt_circle.png",
     "originChain": "statemint",
     "multiChainAsset": "USDT-Tether",
     "assetRefs": [
@@ -14967,6 +15078,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/statemint-local-wbtc.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/wbtc_circle.png",
     "originChain": "statemint",
     "multiChainAsset": "WBTC-WrappedBTC",
     "assetRefs": [
@@ -15012,6 +15124,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/statemint-local-weth.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ethereum_circle.png",
     "originChain": "statemint",
     "multiChainAsset": "ETH-Ethereum",
     "assetRefs": [
@@ -15037,6 +15150,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/statemint-local-wifd.png",
+    "icon_alternative": null,
     "originChain": "statemint",
     "multiChainAsset": "WIFD-DogWifDots",
     "assetRefs": []
@@ -15093,6 +15207,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/statemint-local-tbtc.png",
+    "icon_alternative": null,
     "originChain": "statemint",
     "multiChainAsset": "tBTC-tBTCv2",
     "assetRefs": [
@@ -15138,6 +15253,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/statemint-local-wsteth.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/lidoETH_square.png",
     "originChain": "statemint",
     "multiChainAsset": "wstETH-WrappedLiquidEther",
     "assetRefs": [
@@ -15167,6 +15283,7 @@
     "hasValue": true,
     "ordinal": 9,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/statemint-native-dot.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/polkadot_square.png",
     "originChain": "statemint",
     "multiChainAsset": "DOT-Polkadot",
     "assetRefs": [
@@ -15218,6 +15335,7 @@
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/storypartner_testnet-native-ip.png",
+    "icon_alternative": null,
     "originChain": "storyPartner_testnet",
     "multiChainAsset": null,
     "assetRefs": []
@@ -15234,6 +15352,7 @@
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/storypublic_testnet-native-ip.png",
+    "icon_alternative": null,
     "originChain": "storyPublic_testnet",
     "multiChainAsset": null,
     "assetRefs": []
@@ -15250,6 +15369,7 @@
     "hasValue": true,
     "ordinal": 126,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/subsocial_x-native-sub.png",
+    "icon_alternative": null,
     "originChain": "subsocial_x",
     "multiChainAsset": null,
     "assetRefs": []
@@ -15266,6 +15386,7 @@
     "hasValue": false,
     "ordinal": 148,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/subspace_gemini_2a-native-tssc.png",
+    "icon_alternative": null,
     "originChain": "subspace_gemini_2a",
     "multiChainAsset": null,
     "assetRefs": []
@@ -15282,6 +15403,7 @@
     "hasValue": false,
     "ordinal": 149,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/subspace_gemini_3c-native-tssc.png",
+    "icon_alternative": null,
     "originChain": "subspace_gemini_3c",
     "multiChainAsset": null,
     "assetRefs": []
@@ -15298,6 +15420,7 @@
     "hasValue": false,
     "ordinal": 150,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/subspace_gemini_3d-native-tssc.png",
+    "icon_alternative": null,
     "originChain": "subspace_gemini_3d",
     "multiChainAsset": null,
     "assetRefs": []
@@ -15314,6 +15437,7 @@
     "hasValue": false,
     "ordinal": 151,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/subspace_gemini_3e-native-tssc.png",
+    "icon_alternative": null,
     "originChain": "subspace_gemini_3e",
     "multiChainAsset": null,
     "assetRefs": []
@@ -15330,6 +15454,7 @@
     "hasValue": false,
     "ordinal": 152,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/subspace_gemini_3f-native-tssc.png",
+    "icon_alternative": null,
     "originChain": "subspace_gemini_3f",
     "multiChainAsset": null,
     "assetRefs": []
@@ -15346,6 +15471,7 @@
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/subspace_gemini_3g-native-tssc.png",
+    "icon_alternative": null,
     "originChain": "subspace_gemini_3g",
     "multiChainAsset": null,
     "assetRefs": []
@@ -15362,6 +15488,7 @@
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/subspace_gemini_3h-native-tssc.png",
+    "icon_alternative": null,
     "originChain": "subspace_gemini_3h",
     "multiChainAsset": null,
     "assetRefs": []
@@ -15378,6 +15505,7 @@
     "hasValue": false,
     "ordinal": 147,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/subspace_test-native-tssc.png",
+    "icon_alternative": null,
     "originChain": "subspace_test",
     "multiChainAsset": null,
     "assetRefs": []
@@ -15394,6 +15522,7 @@
     "hasValue": true,
     "ordinal": 205,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/swapdex-native-sdx.png",
+    "icon_alternative": null,
     "originChain": "swapdex",
     "multiChainAsset": null,
     "assetRefs": []
@@ -15410,6 +15539,7 @@
     "hasValue": true,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/syscoin_evm-native-sys.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/syscoin_square.png",
     "originChain": "syscoin_evm",
     "multiChainAsset": "SYS-Syscoin",
     "assetRefs": []
@@ -15426,6 +15556,7 @@
     "hasValue": false,
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/syscoin_evm_testnet-native-tsys.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/syscoin_square.png",
     "originChain": "syscoin_evm_testnet",
     "multiChainAsset": "TSYS-TestSyscoin",
     "assetRefs": []
