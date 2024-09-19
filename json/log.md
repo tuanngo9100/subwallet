@@ -1,5 +1,5 @@
-A. Exist in Json but no image
-A1. MultiChain
+### A. Exist in Json but no image
+#### A1. MultiChain
 - Mythos
 - Mill-Million
 - NCTR-Apillon
@@ -39,11 +39,93 @@ A1. MultiChain
 - BORK-BORK: bork
 - 
 
-A2. ChainAsset
-A3. ChainInfo
-  "icon_alternative": null,
+#### A2. ChainAsset
 - 3dpass
 - aband
+- mars
+- moonsama
+- myriad
+- mythos
+- neatcoin
+- Nftmart
+- Nodle
+- Oak_network
+- omnibtc
+- opal
+- pangolin
+- origintrail
+- peaq
+- parallel
+- paseotest
+- pendulum
+- peoplekusama
+- phykentest
+- picasso
+- pichiu
+- pioneer
+- polimec
+- polymesh
+- quantum portal
+- quartz
+- riochain
+- riodefi
+- rmrk
+- rococo
+- rococo_assethub
+- rollux
+- rollux testnet
+- sakura
+- sherpax
+- shibuya
+- shibuya evm
+- shiden
+- shidenevm
+- snow
+- soneiumMinato
+- statemine
+- statemint
+- storyPartner_testnet
+- storypublic_testnet
+- subdao
+- subgame gamma
+- subgame network
+- subsocial
+- subspace_gemini_2a
+- subspace_gemini_3c
+- subspace_gemini_3d
+- subspace_gemini_3e
+- subspace_gemini_3f
+- subspace_gemini_3g
+- subspace_gemini_3h
+- subspace_test
+- swapdex
+- t3rn
+- tanganika
+- tangletest
+- tinkernet
+- trustbase
+- turing
+- turing staging
+- unique testnet 2.0
+- unique - evm
+- unique network
+- unorthodox
+- vara network
+- vara testnet
+- virto network
+- watr mainnet
+- watr mainnet evm
+- watr network
+- watr network evm
+- westend
+- xcavate
+- xlayer
+- xxnetwork
+- zeitgeist
+- zero
+
+#### A3. ChainInfo
+- 3dpass-NATIVE-P3D
 - acala-LOCAL-ASTR
 - acala-LOCAL-INTR
 - acala-LOCAL-PINK
@@ -130,13 +212,14 @@ A3. ChainInfo
 - bifrost_dot-LOCAL-vsDOT
 - bifrost_dot-NATIVE-BNC
 - bifrost_testnet-NATIVE-BNC
+- bitcoin-BRC20-fake - no icon
 - bitcoin-BRC20-Cncl
 - bitcoin-BRC20-trac
 - bitcoin-BRC20-tshx
 - bitcoin-BRC20-wzrd
 - bitcoin-RUNE-DOG•GO•TO•THE•MOON-840000:3
 - bitcoin-RUNE-EPIC•EPIC•EPIC•EPIC-842166:27
-- bitcoin-RUNE-MEME•MINT•MILLION-840000:212
+- bitcoin-RUNE-MEME•MINT•MILLION-840000:212 - no icon
 - bitcoin-RUNE-RUNES•X•BITCOIN-840000:142
 - bitcoin-RUNE-RUNE•ALPHA•COOK-840000:188
 - bitcoin-RUNE-UNCOMMON•GOODS-1:0
@@ -145,9 +228,9 @@ A3. ChainInfo
 - bitcountry-NATIVE-NUUM
 - bitgreen-NATIVE-BBB
 - bitlayerTest-NATIVE-BTC
+- bitlayer-ERC721-LuckyHelmet-0x260ac1a14a89fd24c72b84092629f14964556299 - no icon
 - bittensor-NATIVE-TAO
 - bittensor_testnet-NATIVE-TAO
-- blast_mainnet-ERC20-BLAST-0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad
 - bobMainnet-ERC20-STONE-0x96147a9ae9a42d7da551fd2322ca15b71032f342
 - bobMainnet-ERC20-tBTC-0xBBa2eF945D523C4e2608C9E1214C2Cc64D4fc2e2
 - boolAlpha-NATIVE-tBOL
@@ -253,7 +336,158 @@ A3. ChainInfo
 - interlay-NATIVE-INTR
 - invarch-NATIVE-VARCH
 - ipci-NATIVE-MITO
-- 
+- joystream-NATIVE-JOY
+- jur_network-NATIVE-JUR
+- kabocha-NATIVE-KAB
+- kapex-NATIVE-KPX
+- karura-LOCAL-BNC
+- karura-LOCAL-NEER
+- karura-LOCAL-aSEED
+- karura-LOCAL-tKSM
+- karura-NATIVE-KAR
+- karura_evm-NATIVE-KAR
+- kate-NATIVE-AVL
+- kico-NATIVE-KICO
+- kilt-NATIVE-KILT
+- kilt_peregrine-NATIVE-PILT
+- kintsugi-LOCAL-LP_KSM_KINT
+- kintsugi-LOCAL-LP_KSM_kBTC
+- kintsugi-LOCAL-LP_kBTC_USDT
+- kintsugi-LOCAL-kBTC
+- kintsugi-LOCAL-qKBTC
+- kintsugi-LOCAL-qKSM
+- kintsugi-LOCAL-qUSDT
+- kintsugi-NATIVE-KINT
+- kintsugi_test-NATIVE-KINT
+- krest_network-NATIVE-KREST
+- kulupu-NATIVE-KLP
+- kusari-NATIVE-KSI
+- layerEdge_testnet-NATIVE-LBTC
+- liberland-LOCAL-LLM
+- liberland-NATIVE-LLD
+- liberlandTest-NATIVE-LDN
+- listen-NATIVE-LT
+- logion-NATIVE-LGNT
+- luhnNetwork-NATIVE-LUHN
+- mangatax-NATIVE-MGAT
+- mangatax_para-NATIVE-MGX
+- moonbase-ERC20-MFG-0x3ef88816ebE8F50019e931bdFFB0e428A44a29B1
+- moonbase-ERC20-MFR-0xc2bFd8e028b342F0537aDC2bF310821c807c1312
+- moonbeam-ERC20-BEANS-0x65b09ef8c5A096C5Fd3A80f1F7369E56eB932412
+- moonbeam-ERC20-CGS-0x2Dfc76901bB2ac2A5fA5fc479590A490BBB10a5F
+- moonbeam-ERC20-FLARE-0xE3e43888fa7803cDC7BEA478aB327cF1A0dc11a7
+- moonbeam-ERC20-GLINT-0xcd3B51D98478D53F4515A306bE565c6EebeF1D58
+- moonbeam-ERC20-RMRK-0x524d524B4c9366be706D3A90dcf70076ca037aE3
+- moonbeam-ERC20-SHARE-0x4204cAd97732282d261FbB7088e07557810A6408
+- moonbeam-ERC20-STELLA-0x0E358838ce72d5e61E0018a2ffaC4bEC5F4c88d2
+- moonbeam-ERC20-TFA-0xE065ffaf3f7dED69BB5cf5FDd1Fd1dDA2EEe8493
+- moonbeam-ERC20-WELL-0x511ab53f793683763e5a8829738301368a2411e3
+- moonbeam-ERC20-stDOT-0xbc7E02c4178a7dF7d3E564323a5c359dc96C4db4
+- moonbeam-ERC20-veSOLAR-0x0DB6729C03C85B0708166cA92801BcB5CAc781fC
+- moonbeam-ERC20-xStella-0x06A3b410b681c82417A906993aCeFb91bAB6A080
+- moonbeam-ERC721-ANFT-0xcf82ddcca84d0e419bccd7a540e807c114250ded - use default icon 
+- moonbeam-ERC721-EXRP-0x515e20e6275ceefe19221fc53e77e38cc32b80fb - use default icon 
+- moonbeam-ERC721-GKC-0x62E413D4b097b474999CF33d336cD74881084ba5 - use default icon
+- moonbeam-ERC721-GLMA-0x8fbe243d898e7c88a6724bb9eb13d746614d23d6 - use default icon
+- moonbeam-ERC721-GLMJ-0xcB13945Ca8104f813992e4315F8fFeFE64ac49cA - use default icon
+- moonbeam-ERC721-GPUNKS-0x25714FcBc4bE731B95AE86483EF97ef6C3deB5Ce - use default icon
+- moonbeam-ERC721-GlmrZuki-0xC36D971c11CEbbCc20eE2C2910e07e2b1Be3790d - use default icon
+- moonbeam-ERC721-MBNS-0x9576167Eb03141F041ccAf57D4D0bd40Abb2b583 - use default icon
+- moonbeam-ERC721-MDAO-0xc6342EAB8B7cC405Fc35ebA7F7401fc400aC0709 - use default icon
+- moonbeam-ERC721-MFBB-0x02a6dec99b2ca768d638fcd87a96f6069f91287c - use default icon
+- moonbeam-ERC721-MFMP-0x6758053c0b27E478edE1E4882adFF708Fc4FA72D - use default icon
+- moonbeam-ERC721-MM-0xCc1A7573C8f10d0df7Ee4d57cc958C8Df4a5Aca9 - use default icon
+- moonbeam-ERC721-MOONPETS-0x2159762693C629C5A44Fc9baFD484f8B96713467 - use default icon
+- moonbeam-ERC721-PUNK-0xFD86D63748a6390E4a80739e776463088811774D - use default icon
+- moonbeam-LOCAL-xcASTR
+- moonbeam-LOCAL-xcBNCS
+- moonbeam-LOCAL-xcDED
+- moonbeam-LOCAL-xcEQ
+- moonbeam-LOCAL-xcEQD
+- moonbeam-LOCAL-xcIBTC
+- moonbeam-LOCAL-xcINTR
+- moonbeam-LOCAL-xcNCTR
+- moonbeam-LOCAL-xcPINK
+- moonbeam-LOCAL-xcSTINK
+- moonbeam-LOCAL-xcWIFD
+- moonbeam-LOCAL-xcaSEED
+- moonbeam-LOCAL-xcvDOT
+- moonriver-ERC20-MFAM-0xBb8d88bcD9749636BC4D2bE22aaC4Bb3B01A58F1
+- moonriver-ERC20-RIB-0xbD90A6125a84E5C512129D622a75CDDE176aDE5E
+- moonriver-ERC20-SOLAR-0x6bD193Ee6D2104F14F94E2cA6efefae561A4334B
+- moonriver-ERC20-ZLK-0x0f47ba9d9Bde3442b42175e51d6A367928A1173B
+- moonriver-ERC721-NFTQ-0x79c8C73F85ec794f570aa7B768568a7fEdB294f8 - use default icon
+- moonriver-ERC721-ZOOMBIE-0x08716e418e68564C96b68192E985762740728018 - use default icon
+- moonriver-LOCAL-xcBNC
+- moonriver-LOCAL-xcKAR
+- moonriver-LOCAL-xcKBTC
+- moonriver-LOCAL-xcKINT
+- moonriver-LOCAL-xcaSEED
+- myriad-NATIVE-MYRIA
+- mythos-NATIVE-MYTH
+- neatcoin-NATIVE-NEAT - use default icon
+- nftmart-NATIVE-NMT
+- nodle-NATIVE-NODL
+- opal-NATIVE-OPL
+- origintrail-NATIVE-NEURO
+- pangolin-LOCAL-PKTON
+- pangolin-NATIVE-PRING
+- parallel-LOCAL-cDOT714
+- parallel-NATIVE-PARA
+- paseoTest-NATIVE-PAS
+- peaq-NATIVE-PEAQ
+- pendulum-LOCAL-ASTR
+- pendulum-LOCAL-AUDD.s
+- pendulum-LOCAL-BNC
+- pendulum-LOCAL-BRL.s
+- pendulum-LOCAL-BRZ
+- pendulum-LOCAL-EURC.s
+- pendulum-LOCAL-EURC.s-0xcf4f5a26e2090bb3adcf02c7a9d73dbfe6659cc690461475b86437fa49c71136
+- pendulum-LOCAL-HDX
+- pendulum-LOCAL-NGNC.s
+- pendulum-LOCAL-PINK
+- pendulum-LOCAL-vDOT
+- pendulum-NATIVE-PEN
+- phala-LOCAL-PINK
+- phykenTest-NATIVE-KEN
+- picasso-NATIVE-PICA
+- pichiu-NATIVE-PCHU
+- pioneer-LOCAL-BIT
+- pioneer-NATIVE-NEER
+- polimec-NATIVE-PLMC
+- polkadexTest-NATIVE-Unit
+- polymesh-NATIVE-POLYX
+- quartz-NATIVE-QTZ
+- sherpax-NATIVE-KSX
+- shibuya-NATIVE-SBY
+- shibuyaEvm-NATIVE-SBY
+- shiden-LOCAL-KAR
+- shiden-LOCAL-aSEED
+- shiden-NATIVE-SDN
+- shidenEvm-ERC20-FEGS-0xa9b79AAB9d60e8e6d08D2cbAd56ff0De58ff8d41 - use default icon
+- shidenEvm-ERC20-JPYC-0x735abe48e8782948a37c7765ecb76b98cde97b0f
+- shidenEvm-ERC20-Kac-0xb12c13e66ade1f72f71834f2fc5082db8c091358 - use default icon
+- shidenEvm-ERC20-PKEX-0xdc42728b0ea910349ed3c6e1c9dc06b5fb591f98
+- shidenEvm-ERC20-SMS-0xec0c789c6dc019b1c19f055edf938b369d235d2c - use default icon
+- shidenEvm-ERC20-SRISE-0x16bf7ecaf868348703ff5b5c0c3b84be7bf483f9 - use default icon
+- shidenEvm-ERC20-STND-0x722377A047e89CA735f09Eb7CccAb780943c4CB4 - use default icon
+- shidenEvm-ERC20-WSDN-0x0f933dc137d21ca519ae4c7e93f87a4c8ef365ef
+- shidenEvm-ERC20-aSEED-0xfFFfFFfF00000000000000010000000000000000
+- shidenEvm-NATIVE-SDN
+- statemine-LOCAL-ARIS
+- statemine-LOCAL-BAILEGO - use default icon
+- statemine-LOCAL-BILL
+- statemine-LOCAL-CHAOS
+- statemine-LOCAL-CHRWNA
+- statemine-LOCAL-RMRK
+- statemint-LOCAL-BEEFY
+- statemint-LOCAL-BORK
+- statemint-LOCAL-CPcoin
+- statemint-LOCAL-DED
+- statemint-LOCAL-DOTA
+- statemint-LOCAL-KOL
+- statemint-LOCAL-MYTH
+- statemint-LOCAL-Mill
 - statemint-LOCAL-NCTR
 - statemint-LOCAL-PINK
 - statemint-LOCAL-STINK
@@ -272,92 +506,26 @@ A3. ChainInfo
 - subspace_gemini_3h-NATIVE-tSSC
 - subspace_test-NATIVE-tSSC
 - swapdex-NATIVE-SDX
-- 
-- mangatax
-- mangatax_para
-- mars
-- moonbeam-ERC20-CGS-0x2Dfc76901bB2ac2A5fA5fc479590A490BBB10a5F
-- moonsama
-- myriad
-- mythos
-- neatcoin
-- Nftmart
-- Nodle
-- Oak_network
-- okxTest
-- omnibtc
-- opal
-- origintrail
-- pangolin
-- parallel
-- paseotest
-- peaq
-- pendulum
-- peoplekusama
-- phykentest
-- picasso
-- pichiu
-- pioneer
-- polimec
-- polymesh
-- quantum portal
-- quartz
-- riochain
-- riodefi
-- rmrk
-- rococo
-- rococo_assethub
-- rollux
-- rollux testnet
-- sakura
-- sherpax
-- shibuya
-- shibuya evm
-- shiden
-- shidenevm
-- snow
-- soneiumMinato
-- statemine
-- statemint
-- storyPartner_testnet
-- storypublic_testnet
-- subdao
-- subgame gamma
-- subgame network
-- subsocial
-- subspace_gemini_2a
-- subspace_gemini_3c
-- subspace_gemini_3d
-- subspace_gemini_3e
-- subspace_gemini_3f
-- subspace_gemini_3g
-- subspace_gemini_3h
-- subspace_test
-- swapdex
-- t3rn
-- tanganika
-- tangletest
-- tinkernet
-- trustbase
-- turing
-- turing staging
-- unique testnet 2.0
-- unique - evm
-- unique network
-- unorthodox
-- vara network
-- vara testnet
-- virto network
-- watr mainnet
-- watr mainnet evm
-- watr network
-- watr network evm
-- westend
-- xcavate
-- xlayer
-- xxnetwork
-- zeitgeist
-- zero
+- tanganika-NATIVE-DHX
+- tangleTest-NATIVE-tTNT
+- ton_testnet-TEP74-AIOTX-kQAiboDEv_qRrcEdrYdwbVLNOXBHwShFbtKGbQVJ2OKxY_Di - no ico
+- turing-NATIVE-TUR
+- turingStaging-NATIVE-TUR
+- uniqueNft-NATIVE-UNQ
+- unique_evm-NATIVE-UNQ
+- unique_network-NATIVE-UNQ
+- vara_network-NATIVE-VARA
+- vara_testnet-NATIVE-TVARA
+- watr_mainnet-NATIVE-WATR
+- watr_mainnet_evm-NATIVE-WATR
+- watr_network-NATIVE-WATRD
+- watr_network_evm-NATIVE-WATRD
+- westend-NATIVE-WND
+- xcavate-NATIVE-XCAV 
+- xlayer-NATIVE-OKB
+- xx_network-NATIVE-xx 
+- zeitgeist-NATIVE-ZTG
+
 
 B. Exist image but not in JSON => Dont care
 
