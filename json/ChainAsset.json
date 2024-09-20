@@ -5890,7 +5890,7 @@
     "hasValue": true,
     "ordinal": 316,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/equilibrium_parachain-local-para.png",
-    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/parabolic_square.png",
+    "icon_alternative": null,
     "originChain": "equilibrium_parachain",
     "multiChainAsset": "PARA-Parallel",
     "assetRefs": []

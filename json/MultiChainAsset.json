@@ -5,7 +5,8 @@
     "symbol": "ACA",
     "priceId": "acala",
     "hasValue": true,
-    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala_square.png",
+    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aca-acala.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala_square.png",
     "originChainAsset": "acala-NATIVE-ACA",
     "chainAssets": [
       "acala-NATIVE-ACA",
@@ -23,6 +24,7 @@
     "priceId": "apecoin",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ape-apecoin.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/apecoin_circle.png",
     "originChainAsset": "ethereum-ERC20-APE-0x4d224452801ACEd8B2F0aebE155379bb5D594381",
     "chainAssets": [
       "ethereum-ERC20-APE-0x4d224452801ACEd8B2F0aebE155379bb5D594381",
@@ -35,7 +37,8 @@
     "symbol": "ARB",
     "priceId": "arbitrum",
     "hasValue": true,
-    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/arbitrumgoerli_square.png",
+    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/arb-arbitrumone.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/arbitrum_circle.png",
     "originChainAsset": "arbitrum_one-ERC20-ARB-0x912CE59144191C1204E64559FE8253a0e49E6548",
     "chainAssets": [
       "arbitrum_one-ERC20-ARB-0x912CE59144191C1204E64559FE8253a0e49E6548"
@@ -68,7 +71,7 @@
     "priceId": "novatti-australian-digital-dollar",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/audd.s-stellaraudd.png",
-    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/stellar_square.png",
+    "icon_alternative": null,
     "originChainAsset": null,
     "chainAssets": [
       "pendulum-LOCAL-AUDD.s",
@@ -95,8 +98,8 @@
     "symbol": "AZERO",
     "priceId": "aleph-zero",
     "hasValue": true,
-    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/azero-alephzero.png",,,
-    "icon_alternative": null,
+    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/azero-alephzero.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph_square.png",
     "originChainAsset": null,
     "chainAssets": [
       "aleph-NATIVE-AZERO",
@@ -141,7 +144,8 @@
     "symbol": "BNC",
     "priceId": "bifrost-native-coin",
     "hasValue": true,
-    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/kusama_square.png",
+    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bnc-bifrostkusama.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/kusama_square.png",
     "originChainAsset": "bifrost-NATIVE-BNC",
     "chainAssets": [
       "bifrost-NATIVE-BNC",
@@ -157,7 +161,8 @@
     "symbol": "BNC",
     "priceId": "bifrost-native-coin",
     "hasValue": true,
-    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/polkadot_square.png",
+    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bnc-bifrostpolkadot.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/polkadot_square.png",
     "originChainAsset": "bifrost_dot-NATIVE-BNC",
     "chainAssets": [
       "bifrost_dot-NATIVE-BNC",
@@ -171,6 +176,7 @@
     "priceId": null,
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bncs-inscriptiontoken.png",
+    "icon_alternative": null,
     "originChainAsset": "bifrost_dot-LOCAL-BNCS",
     "chainAssets": [
       "bifrost_dot-LOCAL-BNCS",
@@ -183,7 +189,8 @@
     "symbol": "BOBA",
     "priceId": "boba-network",
     "hasValue": true,
-    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/boba_square.png",
+    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/boba-bobatoken.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/boba_square.png",
     "originChainAsset": null,
     "chainAssets": [
       "boba-ERC20-BOBA-0xa18bf3994c0cc6e3b63ac420308e5383f53120d7"
@@ -196,6 +203,7 @@
     "priceId": null,
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bork-bork.png",
+    "icon_alternative": null,
     "originChainAsset": "statemint-LOCAL-BORK",
     "chainAssets": [
       "statemint-LOCAL-BORK",
@@ -208,7 +216,8 @@
     "symbol": "BRL.s",
     "priceId": null,
     "hasValue": true,
-    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/stellar_square.png",
+    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/brl.s-stellarbrl.png",
+    "icon_alternative": null,
     "originChainAsset": null,
     "chainAssets": [
       "pendulum-LOCAL-BRL.s",
@@ -221,7 +230,7 @@
     "symbol": "BTC",
     "priceId": "bitcoin",
     "hasValue": true,
-    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/btcdiamond_square.png",
+    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/btc-bitcoin.png",
     "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bitcoin_circle.png",
     "originChainAsset": "bitcoin-NATIVE-BTC",
     "chainAssets": [
@@ -239,6 +248,7 @@
     "priceId": null,
     "hasValue": false,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/btc-bitcointestnet.png",
+    "icon_alternative": null,
     "originChainAsset": "bitcoinTestnet-NATIVE-BTC",
     "chainAssets": [
       "bitcoinTestnet-NATIVE-BTC",
@@ -256,6 +266,7 @@
     "priceId": "binance-usd",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/busd-binanceusd.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/busd_circle.png",
     "originChainAsset": "binance-ERC20-BUSD-0xe9e7cea3dedca5984780bafc599bd69add087d56",
     "chainAssets": [
       "calamari-LOCAL-BUSD",
@@ -272,6 +283,7 @@
     "priceId": "cere-network",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/cere-cerenetwork.png",
+    "icon_alternative": null,
     "originChainAsset": "ethereum-ERC20-CERE-0x2dA719DB753dFA10a62E140f436E1d67F2ddB0d6",
     "chainAssets": [
       "ethereum-ERC20-CERE-0x2dA719DB753dFA10a62E140f436E1d67F2ddB0d6",
@@ -285,6 +297,7 @@
     "priceId": "centrifuge",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/cfg-centrifuge.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/cfg_square.png",
     "originChainAsset": "centrifuge-NATIVE-CFG",
     "chainAssets": [
       "centrifuge-NATIVE-CFG",
@@ -298,6 +311,7 @@
     "priceId": null,
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/cpcoin.png",
+    "icon_alternative": null,
     "originChainAsset": null,
     "chainAssets": [
       "hydradx_main-LOCAL-CPcoin",
@@ -311,6 +325,7 @@
     "priceId": "crust-network",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/cru-crust.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/crust_circle.png",
     "originChainAsset": "crust-NATIVE-CRU",
     "chainAssets": [
       "crust-NATIVE-CRU",
@@ -325,7 +340,8 @@
     "symbol": "CTC",
     "priceId": "creditcoin-2",
     "hasValue": true,
-    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/creditcoin_square.png",
+    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/creditcoin.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/creditcoin_square.png",
     "originChainAsset": null,
     "chainAssets": [
       "creditcoin_native-NATIVE-CTC",
@@ -340,6 +356,7 @@
     "priceId": "dai",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/dai-daistablecoin.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/dai_circle.png",
     "originChainAsset": null,
     "chainAssets": [
       "calamari-LOCAL-DAI",
@@ -359,6 +376,7 @@
     "priceId": "dot-is-ded",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ded-ded.png",
+    "icon_alternative": null,
     "originChainAsset": "statemint-LOCAL-DED",
     "chainAssets": [
       "hydradx_main-LOCAL-DED",
@@ -1067,7 +1085,7 @@
     "priceId": null,
     "hasValue": false,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/tsys-testsyscoin.png",
-    "icon_alternative": null,
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/syscoin_square.png",
     "originChainAsset": "syscoin_evm_testnet-NATIVE-TSYS",
     "chainAssets": [
       "rollux_testnet-NATIVE-TSYS",
@@ -1081,6 +1099,7 @@
     "priceId": "unique-network",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/unq-uniquenetwork.png",
+    "icon_alternative": null,
     "originChainAsset": null,
     "chainAssets": [
       "unique_network-NATIVE-UNQ",
@@ -1270,7 +1289,7 @@
     "priceId": "stellar",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/xlm.s-stellarlumen.png",
-    "icon_alternative": null,
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/stellar_square.png",
     "originChainAsset": null,
     "chainAssets": [
       "pendulum-LOCAL-XLM.s",
@@ -1457,7 +1476,7 @@
     "priceId": "wrapped-steth",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/wsteth-wrappedliquidether.png",
-    "icon_alternative": null,
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/lidoETH_square.png",
     "originChainAsset": "ethereum-ERC20-wstETH-0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
     "chainAssets": [
       "ethereum-ERC20-wstETH-0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",

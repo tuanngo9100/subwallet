@@ -3622,7 +3622,7 @@
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/efinity.png",
     "providers": {
       "Efinity": "wss://rpc.efinity.io",
-      "Dwellir": "wss://efinity -rpc.dwellir.com"
+      "Dwellir": "wss://efinity-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
