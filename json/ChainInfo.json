@@ -3647,7 +3647,7 @@
     "icon_alternative": null,
     "providers": {
       "Efinity": "wss://rpc.efinity.io",
-      "Dwellir": "wss://efinity -rpc.dwellir.com"
+      "Dwellir": "wss://efinity-rpc.dwellir.com"
     },
     "evmInfo": null,
     "substrateInfo": {
