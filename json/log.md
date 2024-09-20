@@ -37,7 +37,18 @@
 - BNB-Binance: bnb-binance
 - BNCS-InscriptionToken: bncs-inscriptiontoken
 - BORK-BORK: bork
-- 
+- BTC-BitcoinTestnet
+- BUSD-BinanceUSD
+- CERE-CereNetwork
+- CFG-Centrifuge
+- CPcoin-Cypresscoin
+- CRU-Crust
+- DAI-DaiStablecoin
+- DED-DED
+- DEV-MoonbaseDev
+- EQ-Equilibrium
+- KAR-Karura
+- KILT-KILTProtocol
 
 #### A2. ChainAsset
 - 3dpass
@@ -525,8 +536,12 @@
 - xlayer-NATIVE-OKB
 - xx_network-NATIVE-xx 
 - zeitgeist-NATIVE-ZTG
-
-
+- centrifuge: Centrifuge
+- CERE-CereNetwork
+- chainflip_dot Polkadot Chainflip Testnet
+- chainx- ChainX
+- cloverevm: Clover-EVM
+- 
 B. Exist image but not in JSON => Dont care
 
 C. Both exist but slightly different

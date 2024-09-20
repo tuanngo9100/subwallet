@@ -48,6 +48,7 @@
     "priceId": "astar",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astr-astar.png",
+    "icon_alternative": null,
     "originChainAsset": "astar-NATIVE-ASTR",
     "chainAssets": [
       "astar-NATIVE-ASTR",
@@ -66,7 +67,8 @@
     "symbol": "AUDD.s",
     "priceId": "novatti-australian-digital-dollar",
     "hasValue": true,
-    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/stellar_square.png",
+    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/audd.s-stellaraudd.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/stellar_square.png",
     "originChainAsset": null,
     "chainAssets": [
       "pendulum-LOCAL-AUDD.s",
@@ -80,6 +82,7 @@
     "priceId": "avail",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/avail-avail.png",
+    "icon_alternative": null,
     "originChainAsset": "avail_mainnet-NATIVE-AVAIL",
     "chainAssets": [
       "avail_mainnet-NATIVE-AVAIL",
@@ -92,7 +95,8 @@
     "symbol": "AZERO",
     "priceId": "aleph-zero",
     "hasValue": true,
-    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/azero-alephzero.png",
+    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/azero-alephzero.png",,,
+    "icon_alternative": null,
     "originChainAsset": null,
     "chainAssets": [
       "aleph-NATIVE-AZERO",
@@ -106,6 +110,7 @@
     "priceId": null,
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/beefy-beefy.png",
+    "icon_alternative": null,
     "originChainAsset": "statemint-LOCAL-BEEFY",
     "chainAssets": [
       "statemint-LOCAL-BEEFY",
@@ -119,6 +124,7 @@
     "priceId": "binancecoin",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bnb-binance.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/binance_circle.png",
     "originChainAsset": "binance-NATIVE-BNB",
     "chainAssets": [
       "binance-NATIVE-BNB",
@@ -319,7 +325,7 @@
     "symbol": "CTC",
     "priceId": "creditcoin-2",
     "hasValue": true,
-    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/creditcoin.png",
+    "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/creditcoin_square.png",
     "originChainAsset": null,
     "chainAssets": [
       "creditcoin_native-NATIVE-CTC",
@@ -380,6 +386,7 @@
     "priceId": "polkadot",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/dot-polkadot.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/polkadot_square.png",
     "originChainAsset": "polkadot-NATIVE-DOT",
     "chainAssets": [
       "polkadot-NATIVE-DOT",
@@ -408,6 +415,7 @@
     "priceId": "deeper-network",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/dpr-deepernetwork.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/deepernetwork_square.png",
     "originChainAsset": "ethereum-ERC20-DPR-0xf3AE5d769e153Ef72b4e3591aC004E89F48107a1",
     "chainAssets": [
       "deeper_network-NATIVE-DPR",
@@ -421,6 +429,7 @@
     "priceId": "enjincoin",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/enj-enjin.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/enjin_circle.png",
     "originChainAsset": "enjin_relaychain-NATIVE-ENJ",
     "chainAssets": [
       "enjin_matrixchain-NATIVE-ENJ",
@@ -434,6 +443,7 @@
     "priceId": "equilibrium-token",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/eq-equilibrium.png",
+    "icon_alternative": null,
     "originChainAsset": "equilibrium_parachain-NATIVE-EQ",
     "chainAssets": [
       "equilibrium_parachain-NATIVE-EQ",
@@ -447,6 +457,7 @@
     "priceId": null,
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/eqd-equilibriumusd.png",
+    "icon_alternative": null,
     "originChainAsset": "equilibrium_parachain-LOCAL-EQD",
     "chainAssets": [
       "moonbeam-LOCAL-xcEQD",
@@ -505,6 +516,7 @@
     "priceId": null,
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/eurc.s-stellareurc.png",
+    "icon_alternative": null,
     "originChainAsset": null,
     "chainAssets": [
       "pendulum-LOCAL-EURC.s",
@@ -518,6 +530,7 @@
     "priceId": "frax",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/frax-frax.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/frax_circle.png",
     "originChainAsset": null,
     "chainAssets": [
       "moonbeam-ERC20-FRAX-0x322E86852e492a7Ee17f28a78c663da38FB33bfb",
@@ -531,6 +544,7 @@
     "priceId": "fantom",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ftm-fantom.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/fantom_circle.png",
     "originChainAsset": "fantom-NATIVE-FTM",
     "chainAssets": [
       "ethereum-ERC20-FTM-0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
@@ -562,6 +576,7 @@
     "priceId": "hydradx",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hdx-hydradx.png",
+    "icon_alternative": null,
     "originChainAsset": "hydradx_main-NATIVE-HDX",
     "chainAssets": [
       "hydradx_main-NATIVE-HDX",
@@ -575,6 +590,7 @@
     "priceId": "humanode",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/hmnd-humanode.png",
+    "icon_alternative": null,
     "originChainAsset": "humanode-NATIVE-HMND",
     "chainAssets": [
       "humanode-NATIVE-HMND",
@@ -589,6 +605,7 @@
     "priceId": "interlay",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/intr-interlay.png",
+    "icon_alternative": null,
     "originChainAsset": "interlay-NATIVE-INTR",
     "chainAssets": [
       "moonbeam-LOCAL-xcINTR",
@@ -605,6 +622,7 @@
     "priceId": "karura",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/kar-karura.png",
+    "icon_alternative": null,
     "originChainAsset": "karura-NATIVE-KAR",
     "chainAssets": [
       "calamari-LOCAL-KAR",
@@ -623,6 +641,7 @@
     "priceId": "kilt-protocol",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/kilt-kiltprotocol.png",
+    "icon_alternative": null,
     "originChainAsset": null,
     "chainAssets": [
       "hydradx_main-LOCAL-KILT",
@@ -636,6 +655,7 @@
     "priceId": "kintsugi",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/kint-kintsugi.png",
+    "icon_alternative": null,
     "originChainAsset": "kintsugi-NATIVE-KINT",
     "chainAssets": [
       "kintsugi-NATIVE-KINT",
@@ -649,6 +669,7 @@
     "priceId": "calamari-network",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/kma-calamari.png",
+    "icon_alternative": null,
     "originChainAsset": "calamari-NATIVE-KMA",
     "chainAssets": [
       "calamari-NATIVE-KMA",
@@ -662,6 +683,7 @@
     "priceId": null,
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/kol-kolkadot.png",
+    "icon_alternative": null,
     "originChainAsset": null,
     "chainAssets": [
       "hydradx_main-LOCAL-KOL",
@@ -675,6 +697,7 @@
     "priceId": "kusama",
     "hasValue": true,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ksm-kusama.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/kusama_square.png",
     "originChainAsset": "kusama-NATIVE-KSM",
     "chainAssets": [
       "kusama-NATIVE-KSM",

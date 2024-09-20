@@ -111,6 +111,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 11,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala_square.png",
     "providers": {
       "Acala Foundation 0": "wss://acala-rpc-0.aca-api.network",
       "Acala Foundation 1": "wss://acala-rpc-1.aca-api.network",
@@ -163,6 +164,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 166,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala_evm.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala_square.png",
     "providers": {
       "Acala": "https://eth-rpc-acala.aca-api.network"
     },
@@ -190,6 +192,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 84,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala_testnet.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acala_square.png",
     "providers": {
       "Mandala": "wss://mandala-tc9-rpc.aca-staging.network"
     },
@@ -225,6 +228,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/acurast.png",
+    "icon_alternative": null,
     "providers": {
       "Acurast": "wss://acurast-canarynet-ws.prod.gke.papers.tech",
       "Subwallet": "wss://subwallet-rpc.canary.acurast.com"
@@ -258,6 +262,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 125,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/ajunapolkadot.png",
+    "icon_alternative": null,
     "providers": {
       "OnFinality": "wss://ajuna.api.onfinality.io/public-ws"
     },
@@ -411,6 +416,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph_evm.png",
+    "icon_alternative": null,
     "providers": {
       "Gelato": "https://rpc.alephzero.raas.gelato.cloud"
     },
@@ -438,6 +444,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aleph_testnet_evm.png",
+    "icon_alternative": null,
     "providers": {
       "Sepolia": "https://alephzero-sepolia.drpc.org/",
       "Gelato": "https://rpc.alephzero-testnet.gelato.digital/"
@@ -466,6 +473,7 @@
     "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/alpha_network.png",
+    "icon_alternative": null,
     "providers": {},
     "evmInfo": null,
     "substrateInfo": {
@@ -496,6 +504,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 64,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/altair.png",
+    "icon_alternative": null,
     "providers": {
       "Centrifuge": "wss://fullnode.altair.centrifuge.io",
       "OnFinality": "wss://altair.api.onfinality.io/public-ws"
@@ -544,6 +553,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 34,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/amplitude.png",
+    "icon_alternative": null,
     "providers": {
       "Amplitude": "wss://rpc-amplitude.pendulumchain.tech"
     },
@@ -588,6 +598,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 35,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/amplitude_test.png",
+    "icon_alternative": null,
     "providers": {
       "Amplitude": "wss://rpc-foucoco.pendulumchain.tech"
     },
@@ -620,6 +631,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/analog_testnet.png",
+    "icon_alternative": null,
     "providers": {
       "Analog": "wss://rpc.testnet.analog.one"
     },
@@ -652,6 +664,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 13,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/arbitrum_one.png",
+    "icon_alternative": null,
     "providers": {
       "Omniatech": "https://endpoints.omniatech.io/v1/arbitrum/one/public",
       "BlastApi": "https://arbitrum-one.public.blastapi.io"
@@ -712,6 +725,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 8,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astar.png",
+    "icon_alternative": null,
     "providers": {
       "Astar": "wss://rpc.astar.network",
       "OnFinality": "wss://astar.api.onfinality.io/public-ws",
@@ -765,6 +779,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarevm.png",
+    "icon_alternative": null,
     "providers": {
       "Astar": "https://evm.astar.network",
       "OnFinality": "https://astar.api.onfinality.io/public",
@@ -795,6 +810,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/astarzkevm.png",
+    "icon_alternative": null,
     "providers": {
       "Dwellir": "https://astar-zkevm-rpc.dwellir.com"
     },
@@ -822,6 +838,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/atletaolympia_testnet.png",
+    "icon_alternative": null,
     "providers": {
       "Atleta": "wss://testnet-rpc.atleta.network"
     },
@@ -865,6 +882,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 119,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/atocha.png",
+    "icon_alternative": null,
     "providers": {
       "atocha": "wss://gateway.mainnet.octopus.network/atocha/jungxomf4hdcfocwcalgoiz64g9avjim"
     },
@@ -924,6 +942,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 136,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/automata.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/automata_square.png",
     "providers": {
       "OnFinality": "wss://automata.api.onfinality.io/public-ws"
     },
@@ -956,6 +975,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/availturingtest.png",
+    "icon_alternative": null,
     "providers": {
       "Avail Turing ": "wss://turing-rpc.avail.so/ws"
     },
@@ -991,6 +1011,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/avail_mainnet.png",
+    "icon_alternative": null,
     "providers": {
       "Avail": "wss://zeref-api.slowops.xyz/ws",
       "SubWallet Avail": "wss://mainnet-rpc.availspace.app",
@@ -1028,6 +1049,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 164,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/avalanche_c.png",
+    "icon_alternative": null,
     "providers": {
       "Avax Network": "https://api.avax.network/ext/bc/C/rpc",
       "PublicNode": "https://avalanche-c-chain.publicnode.com"
@@ -1059,6 +1081,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 21,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aventus.png",
+    "icon_alternative": null,
     "providers": {
       "Aventus": "wss://public-rpc.mainnet.aventus.network"
     },
@@ -1103,6 +1126,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 153,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/aventus_testnet.png",
+    "icon_alternative": null,
     "providers": {
       "Aventus": "wss://public-rpc.testnet.aventus.network"
     },
@@ -1135,6 +1159,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/b2.png",
+    "icon_alternative": null,
     "providers": {
       "Bsquared": "https://rpc.bsquared.network",
       "Alt technology": "https://b2-mainnet.alt.technology"
@@ -1163,6 +1188,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/b2_testnet.png",
+    "icon_alternative": null,
     "providers": {
       "Alt Technology": "https://b2-testnet.alt.technology/",
       "Ankr": "https://rpc.ankr.com/b2_testnet",
@@ -1192,6 +1218,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 100,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bajun.png",
+    "icon_alternative": null,
     "providers": {
       "AjunaNetwork": "wss://rpc-parachain.bajun.network",
       "OnFinality": "wss://bajun.api.onfinality.io/public-ws"
@@ -1240,6 +1267,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 163,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/base_mainnet.png",
+    "icon_alternative": null,
     "providers": {
       "PublicNode": "https://base.publicnode.com"
     },
@@ -1267,6 +1295,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/base_mainnet.png",
+    "icon_alternative": null,
     "providers": {
       "Base": "https://sepolia.base.org",
       "BlockPi": "https://base-sepolia.blockpi.network/v1/rpc/public",
@@ -1296,6 +1325,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 63,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/basilisk.png",
+    "icon_alternative": null,
     "providers": {
       "Basilisk ": "wss://rpc.basilisk.cloud",
       "Dwellir": "wss://basilisk-rpc.dwellir.com"
@@ -1344,6 +1374,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/berachain_testnet.png",
+    "icon_alternative": null,
     "providers": {
       "Berachain": "https://bartio.rpc.berachain.com/"
     },
@@ -1371,6 +1402,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bevm.png",
+    "icon_alternative": null,
     "providers": {
       "Mainnet 1": "https://rpc-mainnet-1.bevm.io",
       "Mainnet 2": "https://rpc-mainnet-2.bevm.io"
@@ -1399,6 +1431,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bevmtest.png",
+    "icon_alternative": null,
     "providers": {
       "BEVM testnet": "https://testnet.bevm.io"
     },
@@ -1426,6 +1459,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bevm_testnet.png",
+    "icon_alternative": null,
     "providers": {
       "BEVM OP Testnet": "https://sepolia-wbtc-testnet.bevm.io/"
     },
@@ -1450,6 +1484,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 30,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bifrost.png",
+    "icon_alternative": null,
     "providers": {
       "Liebi 0": "wss://bifrost-rpc.liebi.com/ws",
       "OnFinality": "wss://bifrost-parachain.api.onfinality.io/public-ws"
@@ -1509,6 +1544,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 31,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bifrost_dot.png",
+    "icon_alternative": null,
     "providers": {
       "Liebi": "wss://hk.p.bifrost-rpc.liebi.com/ws",
       "LiebiEU": "wss://eu.bifrost-polkadot-rpc.liebi.com/ws",
@@ -1558,6 +1594,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 32,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bifrost_testnet.png",
+    "icon_alternative": null,
     "providers": {
       "Liebi": "wss://bifrost-rpc.rococo.liebi.com/ws"
     },
@@ -1593,6 +1630,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 4,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/binance.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/binance_circle.png",
     "providers": {
       "Binance": "https://bsc-dataseed.binance.org/",
       "Defibit": "https://bsc-dataseed1.defibit.io/",
@@ -1626,6 +1664,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 38,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/binance_test.png",
+    "icon_alternative": null,
     "providers": {
       "Binance": "https://data-seed-prebsc-1-s1.binance.org:8545/",
       "Binance2": "https://data-seed-prebsc-2-s1.binance.org:8545/"
@@ -1654,6 +1693,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bitcoin.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bitcoin_circle.png",
     "providers": {
       "Blockstream": "https://api.openbit.app"
     },
@@ -1676,6 +1716,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bitcointestnet.png",
+    "icon_alternative": null,
     "providers": {
       "Blockstream": "https://api-testnet.openbit.app"
     },
@@ -1698,6 +1739,7 @@
     "chainStatus": "INACTIVE",
     "ordinal": 24,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bitcountry.png",
+    "icon_alternative": null,
     "providers": {
       "Metaverse Foundation": "wss://alphanet-rpc-gcp.bit.country"
     },
@@ -1730,6 +1772,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 126,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bitgreen.png",
+    "icon_alternative": null,
     "providers": {
       "viaBitgreen": "wss://mainnet.bitgreen.org"
     },
@@ -1762,6 +1805,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bitlayer.png",
+    "icon_alternative": null,
     "providers": {
       "Bitlayer": "https://rpc.bitlayer.org",
       "Rpc": "https://rpc.bitlayer-rpc.com",
@@ -1791,6 +1835,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bitlayertest.png",
+    "icon_alternative": null,
     "providers": {
       "Rpc testnet": "https://testnet-rpc.bitlayer.org"
     },
@@ -1818,6 +1863,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 168,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bittensor.png",
+    "icon_alternative": null,
     "providers": {
       "Opentensor": "wss://entrypoint-finney.opentensor.ai:443"
     },
@@ -1862,6 +1908,7 @@
     "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bittensor_testnet.png",
+    "icon_alternative": null,
     "providers": {
       "Testnet": "wss://test.finney.opentensor.ai:443"
     },
@@ -1894,6 +1941,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/blast_mainnet.png",
+    "icon_alternative": null,
     "providers": {
       "Blast": "https://rpc.blast.io"
     },
@@ -1921,6 +1969,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bobmainnet.png",
+    "icon_alternative": null,
     "providers": {
       "Gobob": "https://rpc.gobob.xyz/"
     },
@@ -1948,6 +1997,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 110,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/boba.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/boba_square.png",
     "providers": {
       "Read RPC": "https://lightning-replica.boba.network",
       "Write RPC": "https://mainnet.boba.network"
@@ -1976,6 +2026,7 @@
     "chainStatus": "INACTIVE",
     "ordinal": 36,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bobabase.png",
+    "icon_alternative": null,
     "providers": {},
     "evmInfo": {
       "evmChainId": 1297,
@@ -2001,6 +2052,7 @@
     "chainStatus": "INACTIVE",
     "ordinal": 111,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bobabeam.png",
+    "icon_alternative": null,
     "providers": {
       "RPC": "https://bobabeam.boba.network",
       "Replica RPC": "https://replica.bobabeam.boba.network"
@@ -2029,6 +2081,7 @@
     "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/boolalpha.png",
+    "icon_alternative": null,
     "providers": {
       "Bool Alpha": "https://alpha-rpc-node-http.bool.network"
     },
@@ -2056,6 +2109,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/boolbeta_testnet.png",
+    "icon_alternative": null,
     "providers": {
       "Bool Alpha": "https://betatest-rpc-node-http.bool.network"
     },
@@ -2083,6 +2137,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/botanixevmtest.png",
+    "icon_alternative": null,
     "providers": {
       "Botanix Labs": "https://node.botanixlabs.dev"
     },
@@ -2110,6 +2165,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bouncebitevm.png",
+    "icon_alternative": null,
     "providers": {
       "BounceBit Api": "https://fullnode-mainnet.bouncebitapi.com/"
     },
@@ -2137,6 +2193,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bouncebitevmtest.png",
+    "icon_alternative": null,
     "providers": {
       "BounceBit Api": "https://fullnode-testnet.bouncebitapi.com/"
     },
@@ -2164,6 +2221,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 157,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bridgehubkusama.png",
+    "icon_alternative": null,
     "providers": {
       "Parity": "wss://kusama-bridge-hub-rpc.polkadot.io",
       "Stakeworld": "wss://ksm-rpc.stakeworld.io/bridgehub",
@@ -2202,6 +2260,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 156,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/bridgehubpolkadot.png",
+    "icon_alternative": null,
     "providers": {
       "Parity": "wss://polkadot-bridge-hub-rpc.polkadot.io",
       "Stakeworld": "wss://dot-rpc.stakeworld.io/bridgehub"
@@ -2238,6 +2297,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 33,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/calamari.png",
+    "icon_alternative": null,
     "providers": {
       "Manta Network": "wss://calamari.systems"
     },
@@ -2285,6 +2345,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 109,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/calamari_test.png",
+    "icon_alternative": null,
     "providers": {
       "calamari_test": "wss://c1.calamari.seabird.systems"
     },
@@ -2317,6 +2378,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 44,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/centrifuge.png",
+    "icon_alternative": null,
     "providers": {
       "Centrifuge": "wss://fullnode.parachain.centrifuge.io",
       "OnFinality": "wss://centrifuge-parachain.api.onfinality.io/public-ws"
@@ -2365,6 +2427,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/cere.png",
+    "icon_alternative": null,
     "providers": {
       "Cere Network": "wss://rpc.mainnet.cere.network/ws"
     },
@@ -2429,6 +2492,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/chainflip_dot.png",
+    "icon_alternative": null,
     "providers": {
       "Chainflip": "wss://rpc-pdot.chainflip.io"
     },
@@ -2461,6 +2525,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 83,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/chainx.png",
+    "icon_alternative": null,
     "providers": {
       "chainx ": "wss://mainnet.chainx.org/ws"
     },
@@ -2493,6 +2558,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 40,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/clover.png",
+    "icon_alternative": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/clover_circle.png",
     "providers": {
       "Clover": "wss://rpc-para.clover.finance"
     },
@@ -2551,6 +2617,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 41,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/cloverevm.png",
+    "icon_alternative": null,
     "providers": {
       "Clover": "wss://rpc-para.clover.finance"
     },
@@ -2578,6 +2645,7 @@
     "chainStatus": "INACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/coinversation.png",
+    "icon_alternative": null,
     "providers": {},
     "evmInfo": null,
     "substrateInfo": {
@@ -2620,6 +2688,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 124,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/collectives.png",
+    "icon_alternative": null,
     "providers": {
       "viaParity": "wss://polkadot-collectives-rpc.polkadot.io"
     },
@@ -2652,6 +2721,7 @@
     "chainStatus": "ACTIVE",
     "ordinal": 9999,
     "icon": "https://k2-static-assets.s3.ap-southeast-1.amazonaws.com/assets/icons/commune.png",
+    "icon_alternative": null,
     "providers": {
       "Commune Node 1": "wss://commune-api-node-1.communeai.net"
     },
